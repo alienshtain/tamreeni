@@ -103,3 +103,33 @@ if os.path.isdir(src):
             os.makedirs(os.path.join(res, d), exist_ok=True)
             shutil.copy(os.path.join(src, d, "ic_launcher.png"), os.path.join(res, d, "ic_launcher.png"))
     print("OK icons")
+
+# ---------- compileSdk 36 لكل الإضافات (file_picker وغيره يُترجم على 34 وهذا يكسر البناء) ----------
+rk, rg = os.path.join(AND, "build.gradle.kts"), os.path.join(AND, "build.gradle")
+MARK = "// tamreeni-compilesdk"
+if os.path.exists(rk):
+    s = read(rk)
+    if MARK not in s:
+        s = MARK + '''
+subprojects {
+    val forceSdk = {
+        extensions.findByName("android")?.withGroovyBuilder { "compileSdkVersion"(36) }
+    }
+    if (state.executed) forceSdk() else afterEvaluate { forceSdk() }
+}
+
+''' + s
+        write(rk, s)
+    print("OK compileSdk 36")
+elif os.path.exists(rg):
+    s = read(rg)
+    if MARK not in s:
+        s = MARK + '''
+subprojects {
+    def forceSdk = { p -> if (p.hasProperty("android")) p.android.compileSdkVersion 36 }
+    if (state.executed) forceSdk(it) else afterEvaluate { forceSdk(it) }
+}
+
+''' + s
+        write(rg, s)
+    print("OK compileSdk 36")
