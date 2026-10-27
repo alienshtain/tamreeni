@@ -1,0 +1,38 @@
+# F-Droid build recipe (for a merge request to https://gitlab.com/fdroid/fdroiddata).
+# Not tested by F-Droid yet: before submitting, pin `srclibs` to a current Flutter stable tag
+# and run `fdroid build -v -l com.alienshtain.gym_app` locally to confirm.
+Categories:
+  - Sports & Health
+License: MIT
+AuthorName: alienshtain
+WebSite: https://github.com/alienshtain/tamreeni
+SourceCode: https://github.com/alienshtain/tamreeni
+IssueTracker: https://github.com/alienshtain/tamreeni/issues
+
+AntiFeatures:
+  NonFreeNet:
+    en-US: Exercise tutorial videos are played from YouTube.
+
+AutoName: Tamreeni
+RepoType: git
+Repo: https://github.com/alienshtain/tamreeni.git
+
+Builds:
+  - versionName: 1.1.0
+    versionCode: 2
+    commit: v1.1.0
+    output: build/app/outputs/flutter-apk/app-release.apk
+    srclibs:
+      - flutter@stable
+    prebuild:
+      - export PATH=$$flutter$$/bin:$PATH
+      - flutter config --no-analytics
+      - bash tool/setup.sh --prepare
+    build:
+      - export PATH=$$flutter$$/bin:$PATH
+      - flutter build apk --release
+
+AutoUpdateMode: Version
+UpdateCheckMode: Tags
+CurrentVersion: 1.1.0
+CurrentVersionCode: 2

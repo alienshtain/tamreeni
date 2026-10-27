@@ -1,0 +1,4601 @@
+{
+ "schema": 1,
+ "version": 1,
+ "updated": "2026-10-26",
+ "exercises": [
+  {
+   "id": "pushup",
+   "nameEn": "Push-Up",
+   "nameAr": "ضغط",
+   "emoji": "💪",
+   "category": "chest",
+   "type": "reps",
+   "equipment": "bodyweight",
+   "level": "beginner",
+   "muscles": [
+    "chest",
+    "triceps"
+   ],
+   "secondary": [
+    "front_delts",
+    "abs"
+   ],
+   "stepsEn": [
+    "Start in a high plank with hands just wider than shoulders and body in a straight line.",
+    "Brace your abs and glutes, then lower your chest toward the floor with elbows about 45 degrees from your body.",
+    "Stop when your chest is a fist's distance from the floor.",
+    "Press the floor away to straighten your arms, exhaling as you push up."
+   ],
+   "stepsAr": [
+    "ابدأ بوضعية البلانك العالي واليدان أعرض قليلاً من الكتفين والجسم مستقيم.",
+    "شد عضلات البطن والمؤخرة، ثم انزل بصدرك نحو الأرض والمرفقان بزاوية 45 درجة تقريباً عن الجسم.",
+    "توقف عندما يصبح صدرك على بعد قبضة يد من الأرض.",
+    "ادفع الأرض بعيداً حتى تفرد ذراعيك، وازفر أثناء الدفع."
+   ],
+   "tipsEn": [
+    "Keep hips level; do not let them sag or pike up.",
+    "Do not flare elbows out to 90 degrees; it stresses the shoulders."
+   ],
+   "tipsAr": [
+    "حافظ على استقامة الورك ولا تتركه يهبط أو يرتفع.",
+    "لا تفتح المرفقين بزاوية 90 درجة فهذا يجهد الكتفين."
+   ],
+   "video": "https://www.youtube.com/watch?v=s1X8e4JFdbE",
+   "link": "",
+   "images": [
+    "images/pushup/0.jpg",
+    "images/pushup/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "incline_pushup",
+   "nameEn": "Incline Push-Up",
+   "nameAr": "ضغط مائل",
+   "emoji": "",
+   "category": "chest",
+   "type": "reps",
+   "equipment": "bodyweight",
+   "level": "beginner",
+   "muscles": [
+    "chest",
+    "triceps"
+   ],
+   "secondary": [
+    "front_delts",
+    "abs"
+   ],
+   "stepsEn": [
+    "Place your hands on a sturdy bench, table or sofa edge, slightly wider than shoulders.",
+    "Step your feet back until your body forms a straight line from head to heels.",
+    "Lower your chest toward the edge with elbows at about 45 degrees.",
+    "Push back up to straight arms without letting your hips sag."
+   ],
+   "stepsAr": [
+    "ضع يديك على مقعد أو طاولة ثابتة أو حافة كنبة، أعرض قليلاً من الكتفين.",
+    "ابتعد بقدميك للخلف حتى يصبح جسمك خطاً مستقيماً من الرأس إلى الكعبين.",
+    "انزل بصدرك نحو الحافة والمرفقان بزاوية 45 درجة تقريباً.",
+    "ادفع للأعلى حتى تفرد ذراعيك دون أن يهبط ورك."
+   ],
+   "tipsEn": [
+    "Make sure the surface cannot slide or tip.",
+    "The lower the surface, the harder it gets; progress gradually."
+   ],
+   "tipsAr": [
+    "تأكد أن السطح ثابت ولا ينزلق أو ينقلب.",
+    "كلما كان السطح أقل ارتفاعاً زادت الصعوبة، فتدرج بالتدريج."
+   ],
+   "video": "https://www.youtube.com/watch?v=Gvm5Q29UHbk",
+   "link": "",
+   "images": [
+    "images/incline_pushup/0.jpg",
+    "images/incline_pushup/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "decline_pushup",
+   "nameEn": "Decline Push-Up",
+   "nameAr": "ضغط بقدمين مرتفعتين",
+   "emoji": "",
+   "category": "chest",
+   "type": "reps",
+   "equipment": "calisthenics",
+   "level": "intermediate",
+   "muscles": [
+    "chest",
+    "front_delts"
+   ],
+   "secondary": [
+    "triceps",
+    "abs"
+   ],
+   "stepsEn": [
+    "Put your feet on a bench or sturdy chair and hands on the floor slightly wider than shoulders.",
+    "Form a straight line from head to heels and brace your core.",
+    "Lower your chest toward the floor with elbows at about 45 degrees.",
+    "Press up powerfully to full arm extension, keeping your hips in line."
+   ],
+   "stepsAr": [
+    "ضع قدميك على مقعد أو كرسي ثابت ويداك على الأرض أعرض قليلاً من الكتفين.",
+    "اجعل جسمك خطاً مستقيماً من الرأس إلى الكعبين وشد عضلات البطن.",
+    "انزل بصدرك نحو الأرض والمرفقان بزاوية 45 درجة تقريباً.",
+    "ادفع للأعلى بقوة حتى تفرد ذراعيك مع بقاء الورك في الخط."
+   ],
+   "tipsEn": [
+    "Do not let your lower back sag; squeeze abs and glutes.",
+    "Start with a low platform; a higher one shifts load to the shoulders."
+   ],
+   "tipsAr": [
+    "لا تدع أسفل ظهرك يهبط؛ شد البطن والمؤخرة.",
+    "ابدأ بارتفاع منخفض؛ الارتفاع الأعلى ينقل الحمل إلى الكتفين."
+   ],
+   "video": "https://www.youtube.com/watch?v=9yoySai9DuI",
+   "link": "",
+   "images": [
+    "images/decline_pushup/0.jpg",
+    "images/decline_pushup/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "diamond_pushup",
+   "nameEn": "Diamond Push-Up",
+   "nameAr": "ضغط الماس",
+   "emoji": "",
+   "category": "chest",
+   "type": "reps",
+   "equipment": "calisthenics",
+   "level": "intermediate",
+   "muscles": [
+    "triceps",
+    "chest"
+   ],
+   "secondary": [
+    "front_delts",
+    "abs"
+   ],
+   "stepsEn": [
+    "Get into a plank and bring your hands together under your chest, thumbs and index fingers forming a diamond.",
+    "Keep your body straight and elbows close to your ribs.",
+    "Lower your chest toward your hands in a controlled motion.",
+    "Press up until your arms are straight, exhaling on the way up."
+   ],
+   "stepsAr": [
+    "اتخذ وضعية البلانك وقرّب يديك تحت صدرك بحيث يشكل الإبهامان والسبابتان شكل الماسة.",
+    "حافظ على استقامة الجسم وأبقِ المرفقين قريبين من الأضلاع.",
+    "انزل بصدرك نحو يديك بحركة بطيئة ومضبوطة.",
+    "ادفع للأعلى حتى تفرد ذراعيك، وازفر أثناء الصعود."
+   ],
+   "tipsEn": [
+    "If wrists or elbows hurt, widen the hands or do it from your knees.",
+    "Keep your elbows tucked, not flared out."
+   ],
+   "tipsAr": [
+    "إذا ألمتك المعاصم أو المرفقان فوسّع اليدين أو نفذه من الركبتين.",
+    "أبقِ المرفقين ملتصقين بالجسم وغير مفتوحين."
+   ],
+   "video": "https://www.youtube.com/watch?v=_4EGPVJuqfA",
+   "link": "",
+   "images": [
+    "images/diamond_pushup/0.jpg",
+    "images/diamond_pushup/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "db_bench",
+   "nameEn": "Dumbbell Bench Press",
+   "nameAr": "ضغط صدر بالدمبل",
+   "emoji": "🏋️",
+   "category": "chest",
+   "type": "reps",
+   "equipment": "weights",
+   "level": "beginner",
+   "muscles": [
+    "chest"
+   ],
+   "secondary": [
+    "triceps",
+    "front_delts"
+   ],
+   "stepsEn": [
+    "Lie on a bench or the floor with a dumbbell in each hand at chest level, feet planted.",
+    "Pull your shoulder blades together and press the dumbbells up over your chest.",
+    "Lower them slowly until your elbows are about 45 to 60 degrees from your torso.",
+    "Press back up and exhale at the top without locking your elbows hard."
+   ],
+   "stepsAr": [
+    "استلقِ على مقعد أو على الأرض وفي كل يد دمبل عند مستوى الصدر والقدمان ثابتتان.",
+    "اضغط لوحي الكتف معاً وادفع الدمبل للأعلى فوق صدرك.",
+    "أنزل الدمبل ببطء حتى يصبح المرفقان بزاوية 45 إلى 60 درجة عن الجسم.",
+    "ادفع للأعلى وازفر في الأعلى دون قفل المرفقين بقوة."
+   ],
+   "tipsEn": [
+    "Keep wrists stacked over elbows throughout.",
+    "Choose a weight you can control; do not bounce at the bottom."
+   ],
+   "tipsAr": [
+    "أبقِ المعصمين فوق المرفقين طوال الحركة.",
+    "اختر وزناً تتحكم به ولا ترتد في أسفل الحركة."
+   ],
+   "video": "https://www.youtube.com/watch?v=5Y3VZsLb1Ys",
+   "link": "",
+   "images": [
+    "images/db_bench/0.jpg",
+    "images/db_bench/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "db_incline",
+   "nameEn": "Incline Dumbbell Press",
+   "nameAr": "ضغط صدر علوي بالدمبل",
+   "emoji": "🏋️",
+   "category": "chest",
+   "type": "reps",
+   "equipment": "weights",
+   "level": "intermediate",
+   "muscles": [
+    "chest",
+    "front_delts"
+   ],
+   "secondary": [
+    "triceps"
+   ],
+   "stepsEn": [
+    "Set a bench to about 30 degrees and sit with a dumbbell on each thigh, then lie back and bring them to chest level.",
+    "Brace your back against the bench with shoulder blades pulled together.",
+    "Press the dumbbells up and slightly together above your upper chest.",
+    "Lower slowly to chest level and repeat."
+   ],
+   "stepsAr": [
+    "اضبط المقعد على زاوية 30 درجة تقريباً واجلس ودمبل على كل فخذ، ثم استلقِ وارفعهما إلى مستوى الصدر.",
+    "ثبت ظهرك على المقعد مع ضم لوحي الكتف.",
+    "ادفع الدمبل للأعلى وقليلاً للداخل فوق أعلى الصدر.",
+    "أنزلهما ببطء إلى مستوى الصدر وكرر."
+   ],
+   "tipsEn": [
+    "Keep the angle around 30 degrees; steeper turns it into a shoulder press.",
+    "Do not arch your lower back off the bench."
+   ],
+   "tipsAr": [
+    "اجعل الزاوية حوالي 30 درجة؛ الأعلى تحولها إلى ضغط أكتاف.",
+    "لا تقوّس أسفل ظهرك بعيداً عن المقعد."
+   ],
+   "video": "https://www.youtube.com/watch?v=OC7Qs_SAO2E",
+   "link": "",
+   "images": [
+    "images/db_incline/0.jpg",
+    "images/db_incline/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "db_fly",
+   "nameEn": "Dumbbell Fly",
+   "nameAr": "فتح صدر بالدمبل",
+   "emoji": "🏋️",
+   "category": "chest",
+   "type": "reps",
+   "equipment": "weights",
+   "level": "intermediate",
+   "muscles": [
+    "chest"
+   ],
+   "secondary": [
+    "front_delts"
+   ],
+   "stepsEn": [
+    "Lie on a bench or the floor holding dumbbells above your chest, palms facing each other, elbows slightly bent.",
+    "Open your arms out to the sides in a wide arc until you feel a stretch in your chest.",
+    "Keep the slight elbow bend fixed the whole time.",
+    "Squeeze your chest to bring the dumbbells back together above you."
+   ],
+   "stepsAr": [
+    "استلقِ على مقعد أو الأرض وأمسك الدمبل فوق صدرك والراحتان متقابلتان والمرفقان مثنيان قليلاً.",
+    "افتح ذراعيك للجانبين في قوس واسع حتى تشعر بشد في الصدر.",
+    "حافظ على انثناء المرفقين الطفيف طوال الحركة.",
+    "اعصر صدرك لإعادة الدمبل معاً فوقك."
+   ],
+   "tipsEn": [
+    "Use light weights; this is a stretch movement, not a press.",
+    "Do not lower below chest level to protect your shoulders."
+   ],
+   "tipsAr": [
+    "استخدم أوزاناً خفيفة؛ هذا تمرين شد وليس ضغطاً.",
+    "لا تنزل أسفل مستوى الصدر لحماية الكتفين."
+   ],
+   "video": "https://www.youtube.com/watch?v=Nhvz9EzdJ4U",
+   "link": "",
+   "images": [
+    "images/db_fly/0.jpg",
+    "images/db_fly/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "dips",
+   "nameEn": "Chest Dips",
+   "nameAr": "متوازي",
+   "emoji": "",
+   "category": "chest",
+   "type": "reps",
+   "equipment": "calisthenics",
+   "level": "intermediate",
+   "muscles": [
+    "chest",
+    "triceps"
+   ],
+   "secondary": [
+    "front_delts"
+   ],
+   "stepsEn": [
+    "Grip the parallel bars, lift yourself with straight arms and cross your ankles behind you.",
+    "Lean your torso forward slightly and keep elbows slightly flared.",
+    "Lower until your upper arms are about parallel to the floor.",
+    "Press up to straight arms, keeping shoulders down away from your ears."
+   ],
+   "stepsAr": [
+    "أمسك العقلتين المتوازيتين وارفع جسمك بذراعين مفرودتين واعقد كاحليك خلفك.",
+    "مِل بجذعك قليلاً للأمام وأبقِ المرفقين مفتوحين قليلاً.",
+    "انزل حتى يصبح العضدان موازيين للأرض تقريباً.",
+    "ادفع للأعلى حتى تفرد ذراعيك مع إبقاء الكتفين بعيداً عن الأذنين."
+   ],
+   "tipsEn": [
+    "Do not go deeper than comfortable; excess depth strains the shoulders.",
+    "Control the descent; avoid dropping fast."
+   ],
+   "tipsAr": [
+    "لا تنزل أعمق من المريح؛ العمق الزائد يجهد الكتفين.",
+    "تحكم في النزول ولا تسقط بسرعة."
+   ],
+   "video": "https://www.youtube.com/watch?v=n622LUS15_E",
+   "link": "",
+   "images": [
+    "images/dips/0.jpg",
+    "images/dips/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "knee_pushup",
+   "nameEn": "Knee Push-Up",
+   "nameAr": "ضغط على الركبتين",
+   "emoji": "",
+   "category": "chest",
+   "type": "reps",
+   "equipment": "bodyweight",
+   "level": "beginner",
+   "muscles": [
+    "chest",
+    "triceps"
+   ],
+   "secondary": [
+    "front_delts",
+    "abs"
+   ],
+   "stepsEn": [
+    "Kneel on a mat with hands slightly wider than shoulders and knees behind your hips.",
+    "Keep a straight line from head to knees and brace your abs.",
+    "Lower your chest toward the floor with elbows at about 45 degrees.",
+    "Press up to straight arms, exhaling as you rise."
+   ],
+   "stepsAr": [
+    "اركع على سجادة ويداك أعرض قليلاً من الكتفين والركبتان خلف الورك.",
+    "حافظ على خط مستقيم من الرأس إلى الركبتين وشد عضلات البطن.",
+    "انزل بصدرك نحو الأرض والمرفقان بزاوية 45 درجة تقريباً.",
+    "ادفع للأعلى حتى تفرد ذراعيك وازفر أثناء الصعود."
+   ],
+   "tipsEn": [
+    "Do not bend at the hips; keep the body straight.",
+    "Use a mat to protect your knees."
+   ],
+   "tipsAr": [
+    "لا تثنِ الورك؛ أبقِ الجسم مستقيماً.",
+    "استخدم سجادة لحماية الركبتين."
+   ],
+   "video": "https://www.youtube.com/watch?v=z8nUnCdZXQI",
+   "link": "",
+   "images": [],
+   "rev": 1
+  },
+  {
+   "id": "wide_pushup",
+   "nameEn": "Wide Push-Up",
+   "nameAr": "ضغط واسع",
+   "emoji": "",
+   "category": "chest",
+   "type": "reps",
+   "equipment": "bodyweight",
+   "level": "beginner",
+   "muscles": [
+    "chest"
+   ],
+   "secondary": [
+    "front_delts",
+    "triceps",
+    "abs"
+   ],
+   "stepsEn": [
+    "Start in a plank with hands well wider than shoulders, fingers pointing forward or slightly out.",
+    "Brace your core and keep your body in a straight line.",
+    "Lower your chest between your hands until it nears the floor.",
+    "Press back up to straight arms without letting your hips sag."
+   ],
+   "stepsAr": [
+    "ابدأ بوضعية البلانك واليدان أعرض بكثير من الكتفين والأصابع للأمام أو قليلاً للخارج.",
+    "شد عضلات البطن وأبقِ الجسم خطاً مستقيماً.",
+    "انزل بصدرك بين يديك حتى يقترب من الأرض.",
+    "ادفع للأعلى حتى تفرد ذراعيك دون أن يهبط ورك."
+   ],
+   "tipsEn": [
+    "Do not go extremely wide; it stresses the shoulders.",
+    "Move slowly and keep your neck neutral."
+   ],
+   "tipsAr": [
+    "لا تبالغ في توسيع اليدين فهذا يجهد الكتفين.",
+    "تحرك ببطء وأبقِ رقبتك في وضع محايد."
+   ],
+   "video": "https://www.youtube.com/watch?v=UFa702F5WnY",
+   "link": "",
+   "images": [
+    "images/wide_pushup/0.jpg",
+    "images/wide_pushup/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "archer_pushup",
+   "nameEn": "Archer Push-Up",
+   "nameAr": "ضغط الرامي",
+   "emoji": "",
+   "category": "chest",
+   "type": "reps",
+   "equipment": "calisthenics",
+   "level": "advanced",
+   "muscles": [
+    "chest",
+    "triceps"
+   ],
+   "secondary": [
+    "front_delts",
+    "obliques"
+   ],
+   "stepsEn": [
+    "Start in a wide push-up position with hands far wider than shoulders.",
+    "Shift your weight to one side, bending that elbow while the other arm stays straight.",
+    "Lower your chest toward the bent-arm hand, then press back to the center.",
+    "Alternate sides each rep, keeping your hips level."
+   ],
+   "stepsAr": [
+    "ابدأ بوضعية ضغط واسعة واليدان أعرض بكثير من الكتفين.",
+    "انقل وزنك لجهة واحدة وثنِ ذلك المرفق بينما تبقى الذراع الأخرى مفرودة.",
+    "انزل بصدرك نحو اليد المثنية ثم ادفع للعودة إلى المنتصف.",
+    "بدّل الجانبين في كل عدة وأبقِ الورك مستقيماً."
+   ],
+   "tipsEn": [
+    "Master wide push-ups first; this is an advanced move.",
+    "Keep the straight arm's palm flat on the floor."
+   ],
+   "tipsAr": [
+    "أتقن الضغط الواسع أولاً؛ هذه حركة متقدمة.",
+    "أبقِ كف الذراع المفرودة مسطحة على الأرض."
+   ],
+   "video": "https://www.youtube.com/watch?v=jiA3RnMxFU0",
+   "link": "",
+   "images": [],
+   "rev": 1
+  },
+  {
+   "id": "db_floor_press",
+   "nameEn": "Dumbbell Floor Press",
+   "nameAr": "ضغط أرضي بالدمبل",
+   "emoji": "🏋️",
+   "category": "chest",
+   "type": "reps",
+   "equipment": "weights",
+   "level": "beginner",
+   "muscles": [
+    "chest",
+    "triceps"
+   ],
+   "secondary": [
+    "front_delts"
+   ],
+   "stepsEn": [
+    "Lie on the floor with knees bent, holding dumbbells above your chest.",
+    "Lower the dumbbells until your upper arms lightly touch the floor.",
+    "Pause briefly without relaxing your shoulders.",
+    "Press the dumbbells back up over your chest and exhale."
+   ],
+   "stepsAr": [
+    "استلقِ على الأرض والركبتان مثنيتان وأمسك الدمبل فوق صدرك.",
+    "أنزل الدمبل حتى يلامس العضدان الأرض برفق.",
+    "توقف لحظة دون إرخاء الكتفين.",
+    "ادفع الدمبل للأعلى فوق صدرك وازفر."
+   ],
+   "tipsEn": [
+    "Do not bounce your arms off the floor.",
+    "Keep your wrists straight and shoulder blades squeezed."
+   ],
+   "tipsAr": [
+    "لا ترتد بذراعيك عن الأرض.",
+    "أبقِ المعصمين مستقيمين ولوحي الكتف مضمومين."
+   ],
+   "video": "https://www.youtube.com/watch?v=T0Y3OBF1bNI",
+   "link": "",
+   "images": [
+    "images/db_floor_press/0.jpg",
+    "images/db_floor_press/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "db_squeeze_press",
+   "nameEn": "Dumbbell Squeeze Press",
+   "nameAr": "ضغط الدمبل المضغوط",
+   "emoji": "🏋️",
+   "category": "chest",
+   "type": "reps",
+   "equipment": "weights",
+   "level": "beginner",
+   "muscles": [
+    "chest"
+   ],
+   "secondary": [
+    "triceps",
+    "front_delts"
+   ],
+   "stepsEn": [
+    "Lie on a bench or the floor and hold two dumbbells together above your chest, palms facing each other.",
+    "Squeeze the dumbbells hard against each other throughout the set.",
+    "Lower them to your chest while keeping them pressed together.",
+    "Press back up and keep squeezing at the top."
+   ],
+   "stepsAr": [
+    "استلقِ على مقعد أو الأرض وأمسك دمبلين ملتصقين فوق صدرك والراحتان متقابلتان.",
+    "اضغط الدمبلين بقوة على بعضهما طوال المجموعة.",
+    "أنزلهما نحو صدرك مع إبقائهما ملتصقين.",
+    "ادفع للأعلى وواصل الضغط في الأعلى."
+   ],
+   "tipsEn": [
+    "Use light to moderate weight; the squeeze makes it harder.",
+    "Keep elbows tucked about 45 degrees from your body."
+   ],
+   "tipsAr": [
+    "استخدم وزناً خفيفاً إلى متوسط؛ الضغط يزيد الصعوبة.",
+    "أبقِ المرفقين بزاوية 45 درجة تقريباً عن الجسم."
+   ],
+   "video": "https://www.youtube.com/watch?v=Esg0M2uc_3o",
+   "link": "",
+   "images": [],
+   "rev": 1
+  },
+  {
+   "id": "pullup",
+   "nameEn": "Pull-Up",
+   "nameAr": "عقلة",
+   "emoji": "",
+   "category": "back",
+   "type": "reps",
+   "equipment": "calisthenics",
+   "level": "intermediate",
+   "muscles": [
+    "lats",
+    "upper_back"
+   ],
+   "secondary": [
+    "biceps",
+    "forearms",
+    "abs"
+   ],
+   "stepsEn": [
+    "Grip the bar slightly wider than shoulders, palms facing away, and hang with arms straight.",
+    "Pull your shoulder blades down, then pull your chest toward the bar.",
+    "Get your chin above the bar without swinging.",
+    "Lower slowly until your arms are fully straight."
+   ],
+   "stepsAr": [
+    "أمسك العقلة أعرض قليلاً من الكتفين والراحتان للأمام وتدلَّ بذراعين مفرودتين.",
+    "اسحب لوحي الكتف للأسفل ثم اسحب صدرك نحو العقلة.",
+    "ارفع ذقنك فوق العقلة دون تأرجح.",
+    "انزل ببطء حتى تفرد ذراعيك بالكامل."
+   ],
+   "tipsEn": [
+    "Avoid kicking or swinging; control each rep.",
+    "Use a band or slow negatives if you cannot do a full rep yet."
+   ],
+   "tipsAr": [
+    "تجنب الركل والتأرجح؛ تحكم في كل عدة.",
+    "استخدم شريطاً مطاطياً أو نزولاً بطيئاً إن لم تستطع عدة كاملة."
+   ],
+   "video": "https://www.youtube.com/watch?v=TMnxKjdYcME",
+   "link": "",
+   "images": [
+    "images/pullup/0.jpg",
+    "images/pullup/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "chinup",
+   "nameEn": "Chin-Up",
+   "nameAr": "عقلة بقبضة عكسية",
+   "emoji": "",
+   "category": "back",
+   "type": "reps",
+   "equipment": "calisthenics",
+   "level": "intermediate",
+   "muscles": [
+    "lats",
+    "biceps"
+   ],
+   "secondary": [
+    "upper_back",
+    "forearms"
+   ],
+   "stepsEn": [
+    "Grip the bar shoulder-width apart with palms facing you and hang with straight arms.",
+    "Pull your shoulder blades down and drive your elbows toward your ribs.",
+    "Raise your chin over the bar while keeping your body still.",
+    "Lower with control to full arm extension."
+   ],
+   "stepsAr": [
+    "أمسك العقلة بعرض الكتفين والراحتان نحوك وتدلَّ بذراعين مفرودتين.",
+    "اسحب لوحي الكتف للأسفل وادفع المرفقين نحو الأضلاع.",
+    "ارفع ذقنك فوق العقلة مع ثبات الجسم.",
+    "انزل بتحكم حتى تفرد ذراعيك بالكامل."
+   ],
+   "tipsEn": [
+    "Do not rush the lowering phase; it builds strength.",
+    "Avoid shrugging your shoulders up to your ears."
+   ],
+   "tipsAr": [
+    "لا تستعجل النزول؛ فهو يبني القوة.",
+    "تجنب رفع الكتفين نحو الأذنين."
+   ],
+   "video": "https://www.youtube.com/watch?v=r4PGhnfiEdU",
+   "link": "",
+   "images": [
+    "images/chinup/0.jpg",
+    "images/chinup/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "db_row",
+   "nameEn": "One-Arm Dumbbell Row",
+   "nameAr": "تجديف بالدمبل",
+   "emoji": "🏋️",
+   "category": "back",
+   "type": "reps",
+   "equipment": "weights",
+   "level": "beginner",
+   "muscles": [
+    "lats",
+    "upper_back"
+   ],
+   "secondary": [
+    "biceps",
+    "rear_delts"
+   ],
+   "stepsEn": [
+    "Place one hand and the same-side knee on a bench, with a flat back and a dumbbell in the other hand.",
+    "Let the dumbbell hang with your arm straight.",
+    "Pull the dumbbell toward your hip, driving the elbow back.",
+    "Squeeze your back at the top, then lower slowly."
+   ],
+   "stepsAr": [
+    "ضع يداً وركبة الجهة نفسها على مقعد مع ظهر مسطح، وأمسك الدمبل بيدك الأخرى.",
+    "دع الدمبل متدلياً وذراعك مفرودة.",
+    "اسحب الدمبل نحو وركك وادفع المرفق للخلف.",
+    "اعصر ظهرك في الأعلى ثم انزل ببطء."
+   ],
+   "tipsEn": [
+    "Keep your torso still; do not twist to lift the weight.",
+    "Pull with your elbow, not your hand."
+   ],
+   "tipsAr": [
+    "أبقِ جذعك ثابتاً ولا تلتف لرفع الوزن.",
+    "اسحب بالمرفق وليس باليد."
+   ],
+   "video": "https://www.youtube.com/watch?v=Qx2f4YwJAu4",
+   "link": "",
+   "images": [
+    "images/db_row/0.jpg",
+    "images/db_row/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "inv_row",
+   "nameEn": "Inverted Row",
+   "nameAr": "تجديف مقلوب",
+   "emoji": "",
+   "category": "back",
+   "type": "reps",
+   "equipment": "bodyweight",
+   "level": "beginner",
+   "muscles": [
+    "upper_back",
+    "lats"
+   ],
+   "secondary": [
+    "biceps",
+    "rear_delts",
+    "abs"
+   ],
+   "stepsEn": [
+    "Lie under a sturdy table or low bar and grip the edge with hands slightly wider than shoulders.",
+    "Straighten your body from heels to head, heels on the floor.",
+    "Pull your chest up to the edge, squeezing your shoulder blades together.",
+    "Lower slowly until your arms are straight."
+   ],
+   "stepsAr": [
+    "استلقِ تحت طاولة قوية أو عقلة منخفضة وأمسك الحافة بيدين أعرض قليلاً من الكتفين.",
+    "اجعل جسمك مستقيماً من الكعبين إلى الرأس والكعبان على الأرض.",
+    "اسحب صدرك نحو الحافة مع ضم لوحي الكتف.",
+    "انزل ببطء حتى تفرد ذراعيك."
+   ],
+   "tipsEn": [
+    "Make sure the table is heavy and stable before you start.",
+    "Do not let your hips sag; keep your body rigid."
+   ],
+   "tipsAr": [
+    "تأكد أن الطاولة ثقيلة وثابتة قبل البدء.",
+    "لا تدع الورك يهبط؛ أبقِ جسمك متصلباً."
+   ],
+   "video": "https://www.youtube.com/watch?v=sHeLHRd_nCs",
+   "link": "",
+   "images": [
+    "images/inv_row/0.jpg",
+    "images/inv_row/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "reverse_fly",
+   "nameEn": "Dumbbell Reverse Fly",
+   "nameAr": "فتح خلفي بالدمبل",
+   "emoji": "🏋️",
+   "category": "back",
+   "type": "reps",
+   "equipment": "weights",
+   "level": "beginner",
+   "muscles": [
+    "rear_delts",
+    "upper_back"
+   ],
+   "secondary": [
+    "traps"
+   ],
+   "stepsEn": [
+    "Stand with knees slightly bent and hinge forward at the hips with a flat back, dumbbells hanging.",
+    "Keep a slight bend in your elbows.",
+    "Raise the dumbbells out to the sides until they reach shoulder height.",
+    "Squeeze your shoulder blades, then lower slowly."
+   ],
+   "stepsAr": [
+    "قف والركبتان مثنيتان قليلاً وانحنِ للأمام من الورك بظهر مسطح والدمبل متدليان.",
+    "أبقِ انثناءً خفيفاً في المرفقين.",
+    "ارفع الدمبل للجانبين حتى مستوى الكتف.",
+    "اضغط لوحي الكتف معاً ثم انزل ببطء."
+   ],
+   "tipsEn": [
+    "Use light weights; the rear delts are small muscles.",
+    "Do not swing your torso to lift."
+   ],
+   "tipsAr": [
+    "استخدم أوزاناً خفيفة؛ عضلات الكتف الخلفية صغيرة.",
+    "لا تتأرجح بجذعك للرفع."
+   ],
+   "video": "https://www.youtube.com/watch?v=buuYPLVXsJg",
+   "link": "",
+   "images": [
+    "images/reverse_fly/0.jpg",
+    "images/reverse_fly/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "db_pullover",
+   "nameEn": "Dumbbell Pullover",
+   "nameAr": "بولوفر بالدمبل",
+   "emoji": "🏋️",
+   "category": "back",
+   "type": "reps",
+   "equipment": "weights",
+   "level": "intermediate",
+   "muscles": [
+    "lats",
+    "chest"
+   ],
+   "secondary": [
+    "triceps"
+   ],
+   "stepsEn": [
+    "Lie on a bench or the floor holding one dumbbell with both hands above your chest, arms slightly bent.",
+    "Take a breath and lower the dumbbell in an arc behind your head.",
+    "Stop when you feel a stretch in your lats and chest.",
+    "Pull it back over your chest, exhaling."
+   ],
+   "stepsAr": [
+    "استلقِ على مقعد أو الأرض وأمسك دمبلاً واحداً بكلتا يديك فوق صدرك والذراعان مثنيتان قليلاً.",
+    "خذ شهيقاً وأنزل الدمبل في قوس خلف رأسك.",
+    "توقف عندما تشعر بشد في الظهر العريض والصدر.",
+    "اسحبه عائداً فوق صدرك وازفر."
+   ],
+   "tipsEn": [
+    "Keep your ribs down and do not over-arch your lower back.",
+    "Hold the dumbbell firmly under the top plate."
+   ],
+   "tipsAr": [
+    "أبقِ أضلاعك للأسفل ولا تبالغ في تقويس أسفل الظهر.",
+    "أمسك الدمبل بإحكام من تحت القرص العلوي."
+   ],
+   "video": "https://www.youtube.com/watch?v=wveUmKmIBcI",
+   "link": "",
+   "images": [
+    "images/db_pullover/0.jpg",
+    "images/db_pullover/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "superman",
+   "nameEn": "Superman Hold",
+   "nameAr": "سوبرمان",
+   "emoji": "",
+   "category": "back",
+   "type": "time",
+   "equipment": "bodyweight",
+   "level": "beginner",
+   "muscles": [
+    "lower_back"
+   ],
+   "secondary": [
+    "glutes",
+    "upper_back",
+    "hamstrings"
+   ],
+   "stepsEn": [
+    "Lie face down on a mat with arms stretched forward and legs straight.",
+    "Lift your arms, chest and legs a few centimeters off the floor at the same time.",
+    "Hold the position for the prescribed time while breathing normally.",
+    "Lower down slowly and rest."
+   ],
+   "stepsAr": [
+    "استلقِ على بطنك على سجادة وذراعاك ممدودتان للأمام والساقان مستقيمتان.",
+    "ارفع ذراعيك وصدرك وساقيك بضعة سنتيمترات عن الأرض في وقت واحد.",
+    "اثبت على هذه الوضعية للمدة المحددة مع التنفس بشكل طبيعي.",
+    "انزل ببطء ثم ارتح."
+   ],
+   "tipsEn": [
+    "Look at the floor to keep your neck neutral.",
+    "Lift only as high as is comfortable; do not strain your lower back."
+   ],
+   "tipsAr": [
+    "انظر إلى الأرض للحفاظ على رقبتك محايدة.",
+    "ارتفع بقدر ما هو مريح ولا تجهد أسفل ظهرك."
+   ],
+   "video": "https://www.youtube.com/watch?v=UXUGfiNL1lI",
+   "link": "",
+   "images": [
+    "images/superman/0.jpg",
+    "images/superman/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "bent_row",
+   "nameEn": "Bent-Over Dumbbell Row",
+   "nameAr": "تجديف منحنٍ بالدمبل",
+   "emoji": "🏋️",
+   "category": "back",
+   "type": "reps",
+   "equipment": "weights",
+   "level": "beginner",
+   "muscles": [
+    "lats",
+    "upper_back"
+   ],
+   "secondary": [
+    "biceps",
+    "rear_delts",
+    "lower_back"
+   ],
+   "stepsEn": [
+    "Stand with feet hip-width apart, hinge forward at the hips to about 45 degrees with a flat back, dumbbells hanging.",
+    "Brace your core and keep your neck neutral.",
+    "Pull both dumbbells toward your lower ribs, driving elbows back.",
+    "Squeeze your shoulder blades, then lower with control."
+   ],
+   "stepsAr": [
+    "قف والقدمان بعرض الورك وانحنِ للأمام من الورك بزاوية 45 درجة تقريباً بظهر مسطح والدمبل متدليان.",
+    "شد عضلات البطن وأبقِ رقبتك محايدة.",
+    "اسحب الدمبلين نحو أسفل الأضلاع وادفع المرفقين للخلف.",
+    "اضغط لوحي الكتف ثم انزل بتحكم."
+   ],
+   "tipsEn": [
+    "Never round your lower back; reduce the weight if it rounds.",
+    "Keep the dumbbells close to your body."
+   ],
+   "tipsAr": [
+    "لا تقوّس أسفل ظهرك أبداً؛ خفف الوزن إن حدث ذلك.",
+    "أبقِ الدمبل قريباً من جسمك."
+   ],
+   "video": "https://www.youtube.com/watch?v=VsRqipqJ6ng",
+   "link": "",
+   "images": [
+    "images/bent_row/0.jpg",
+    "images/bent_row/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "bird_dog",
+   "nameEn": "Bird Dog",
+   "nameAr": "بيرد دوج",
+   "emoji": "",
+   "category": "back",
+   "type": "reps",
+   "equipment": "bodyweight",
+   "level": "beginner",
+   "muscles": [
+    "lower_back",
+    "glutes"
+   ],
+   "secondary": [
+    "abs",
+    "upper_back",
+    "rear_delts"
+   ],
+   "stepsEn": [
+    "Start on hands and knees with wrists under shoulders and knees under hips, back flat.",
+    "Brace your abs and extend your right arm forward and left leg back at the same time.",
+    "Hold for a second, keeping your hips and shoulders level.",
+    "Return slowly and repeat with the opposite arm and leg."
+   ],
+   "stepsAr": [
+    "ابدأ على اليدين والركبتين والمعصمان تحت الكتفين والركبتان تحت الورك والظهر مسطح.",
+    "شد البطن ومدّ ذراعك اليمنى للأمام وساقك اليسرى للخلف في وقت واحد.",
+    "اثبت ثانية مع إبقاء الورك والكتفين مستويين.",
+    "عد ببطء وكرر بالذراع والساق المعاكستين."
+   ],
+   "tipsEn": [
+    "Do not arch your lower back or rotate your hips.",
+    "Move slowly; imagine a glass of water on your back."
+   ],
+   "tipsAr": [
+    "لا تقوّس أسفل ظهرك ولا تدر ورك.",
+    "تحرك ببطء وتخيل كوب ماء على ظهرك."
+   ],
+   "video": "https://www.youtube.com/watch?v=KA0ekfSePrQ",
+   "link": "",
+   "images": [],
+   "rev": 1
+  },
+  {
+   "id": "prone_y_raise",
+   "nameEn": "Prone Y Raise",
+   "nameAr": "رفع Y على البطن",
+   "emoji": "",
+   "category": "back",
+   "type": "reps",
+   "equipment": "bodyweight",
+   "level": "beginner",
+   "muscles": [
+    "upper_back",
+    "traps"
+   ],
+   "secondary": [
+    "rear_delts",
+    "lower_back"
+   ],
+   "stepsEn": [
+    "Lie face down with arms extended overhead in a Y shape, thumbs pointing up.",
+    "Lightly lift your forehead off the floor to keep your neck neutral.",
+    "Raise both arms off the floor by squeezing your shoulder blades down and back.",
+    "Hold briefly, then lower slowly."
+   ],
+   "stepsAr": [
+    "استلقِ على بطنك وذراعاك ممدودتان فوق رأسك على شكل حرف Y والإبهامان للأعلى.",
+    "ارفع جبهتك قليلاً عن الأرض لإبقاء رقبتك محايدة.",
+    "ارفع الذراعين عن الأرض بضغط لوحي الكتف للأسفل والخلف.",
+    "اثبت لحظة ثم انزل ببطء."
+   ],
+   "tipsEn": [
+    "Use a small, controlled range; do not shrug.",
+    "Keep your legs and glutes relaxed but steady."
+   ],
+   "tipsAr": [
+    "استخدم مدى صغيراً ومضبوطاً ولا ترفع كتفيك.",
+    "أبقِ الساقين والمؤخرة مرتخيتين وثابتتين."
+   ],
+   "video": "https://www.youtube.com/watch?v=w1AWGKubE5U",
+   "link": "",
+   "images": [],
+   "rev": 1
+  },
+  {
+   "id": "db_deadlift",
+   "nameEn": "Dumbbell Deadlift",
+   "nameAr": "رفعة ميتة بالدمبل",
+   "emoji": "🏋️",
+   "category": "back",
+   "type": "reps",
+   "equipment": "weights",
+   "level": "beginner",
+   "muscles": [
+    "glutes",
+    "hamstrings",
+    "lower_back"
+   ],
+   "secondary": [
+    "quads",
+    "traps",
+    "forearms"
+   ],
+   "stepsEn": [
+    "Stand with feet hip-width apart and dumbbells in front of your thighs.",
+    "Push your hips back and bend your knees, keeping your back flat, until the dumbbells reach shin level.",
+    "Drive through your heels and squeeze your glutes to stand tall.",
+    "Lower the weights with the same hip hinge, keeping them close to your legs."
+   ],
+   "stepsAr": [
+    "قف والقدمان بعرض الورك والدمبل أمام فخذيك.",
+    "ادفع ورك للخلف وثنِ ركبتيك مع ظهر مسطح حتى يصل الدمبل إلى مستوى الساقين.",
+    "ادفع بكعبيك واعصر المؤخرة لتقف بشكل مستقيم.",
+    "أنزل الأوزان بنفس حركة الورك مع إبقائها قريبة من ساقيك."
+   ],
+   "tipsEn": [
+    "Keep your back flat and chest up; never round it.",
+    "Do not hyperextend at the top; stand tall."
+   ],
+   "tipsAr": [
+    "أبقِ ظهرك مسطحاً وصدرك مرفوعاً ولا تقوسه أبداً.",
+    "لا تبالغ في ميل الظهر للخلف في الأعلى؛ قف باستقامة."
+   ],
+   "video": "https://www.youtube.com/watch?v=Ae7OC1bDZBA",
+   "link": "",
+   "images": [],
+   "rev": 1
+  },
+  {
+   "id": "scapular_pullup",
+   "nameEn": "Scapular Pull-Up",
+   "nameAr": "عقلة الكتف",
+   "emoji": "",
+   "category": "back",
+   "type": "reps",
+   "equipment": "calisthenics",
+   "level": "beginner",
+   "muscles": [
+    "lats",
+    "upper_back"
+   ],
+   "secondary": [
+    "traps",
+    "forearms"
+   ],
+   "stepsEn": [
+    "Hang from a pull-up bar with a shoulder-width grip and arms straight.",
+    "Keep your arms straight and pull your shoulder blades down and back.",
+    "Your body rises a few centimeters; hold for a second.",
+    "Relax back to a full hang under control."
+   ],
+   "stepsAr": [
+    "تدلَّ من عقلة بقبضة بعرض الكتفين وذراعين مفرودتين.",
+    "أبقِ الذراعين مفرودتين واسحب لوحي الكتف للأسفل والخلف.",
+    "سيرتفع جسمك بضعة سنتيمترات؛ اثبت ثانية.",
+    "عد إلى التدلي الكامل بتحكم."
+   ],
+   "tipsEn": [
+    "Do not bend your elbows; the movement comes from the shoulders.",
+    "Avoid swinging your legs."
+   ],
+   "tipsAr": [
+    "لا تثنِ المرفقين؛ الحركة تأتي من الكتفين.",
+    "تجنب تأرجح الساقين."
+   ],
+   "video": "https://www.youtube.com/watch?v=iKnjSB9VIGo",
+   "link": "",
+   "images": [],
+   "rev": 1
+  },
+  {
+   "id": "db_press",
+   "nameEn": "Dumbbell Shoulder Press",
+   "nameAr": "ضغط أكتاف بالدمبل",
+   "emoji": "🏋️",
+   "category": "shoulders",
+   "type": "reps",
+   "equipment": "weights",
+   "level": "beginner",
+   "muscles": [
+    "front_delts",
+    "side_delts"
+   ],
+   "secondary": [
+    "triceps",
+    "upper_back"
+   ],
+   "stepsEn": [
+    "Sit or stand with a dumbbell in each hand at shoulder height, palms facing forward.",
+    "Brace your abs and keep your ribs down.",
+    "Press the dumbbells overhead until your arms are almost straight.",
+    "Lower slowly back to shoulder height."
+   ],
+   "stepsAr": [
+    "اجلس أو قف وفي كل يد دمبل عند مستوى الكتف والراحتان للأمام.",
+    "شد عضلات البطن وأبقِ أضلاعك للأسفل.",
+    "ادفع الدمبل للأعلى فوق رأسك حتى تكاد ذراعاك تستقيمان.",
+    "أنزلهما ببطء إلى مستوى الكتف."
+   ],
+   "tipsEn": [
+    "Do not arch your lower back; squeeze your glutes if standing.",
+    "Press slightly forward of your ears, not behind."
+   ],
+   "tipsAr": [
+    "لا تقوّس أسفل ظهرك؛ اعصر المؤخرة عند الوقوف.",
+    "ادفع أمام أذنيك قليلاً وليس خلفهما."
+   ],
+   "video": "https://www.youtube.com/watch?v=guW_ENwLOMI",
+   "link": "",
+   "images": [
+    "images/db_press/0.jpg",
+    "images/db_press/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "lateral_raise",
+   "nameEn": "Dumbbell Lateral Raise",
+   "nameAr": "رفرفة جانبية",
+   "emoji": "🏋️",
+   "category": "shoulders",
+   "type": "reps",
+   "equipment": "weights",
+   "level": "beginner",
+   "muscles": [
+    "side_delts"
+   ],
+   "secondary": [
+    "traps",
+    "front_delts"
+   ],
+   "stepsEn": [
+    "Stand with dumbbells at your sides, palms facing in, with a slight bend in your elbows.",
+    "Raise your arms out to the sides, leading with your elbows.",
+    "Stop at about shoulder height.",
+    "Lower slowly over two to three seconds."
+   ],
+   "stepsAr": [
+    "قف والدمبل بجانبيك والراحتان للداخل والمرفقان مثنيان قليلاً.",
+    "ارفع ذراعيك للجانبين وقد المرفقين أولاً.",
+    "توقف عند مستوى الكتف تقريباً.",
+    "انزل ببطء خلال ثانيتين إلى ثلاث."
+   ],
+   "tipsEn": [
+    "Use light weights and do not swing your body.",
+    "Do not shrug; keep your shoulders down."
+   ],
+   "tipsAr": [
+    "استخدم أوزاناً خفيفة ولا تتأرجح بجسمك.",
+    "لا ترفع كتفيك؛ أبقِهما للأسفل."
+   ],
+   "video": "https://www.youtube.com/watch?v=Y29xKcze8Ik",
+   "link": "",
+   "images": [
+    "images/lateral_raise/0.jpg",
+    "images/lateral_raise/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "front_raise",
+   "nameEn": "Dumbbell Front Raise",
+   "nameAr": "رفع أمامي",
+   "emoji": "🏋️",
+   "category": "shoulders",
+   "type": "reps",
+   "equipment": "weights",
+   "level": "beginner",
+   "muscles": [
+    "front_delts"
+   ],
+   "secondary": [
+    "side_delts",
+    "chest"
+   ],
+   "stepsEn": [
+    "Stand holding dumbbells in front of your thighs, palms facing your body.",
+    "Keep your core tight and a slight bend in your elbows.",
+    "Raise the dumbbells straight in front of you to shoulder height.",
+    "Lower slowly without swinging."
+   ],
+   "stepsAr": [
+    "قف وأمسك الدمبل أمام فخذيك والراحتان نحو جسمك.",
+    "شد عضلات البطن وأبقِ المرفقين مثنيين قليلاً.",
+    "ارفع الدمبل للأمام بشكل مستقيم حتى مستوى الكتف.",
+    "انزل ببطء دون تأرجح."
+   ],
+   "tipsEn": [
+    "Do not lean back to lift the weight.",
+    "Stop at shoulder height; going higher adds no benefit."
+   ],
+   "tipsAr": [
+    "لا تميل للخلف لرفع الوزن.",
+    "توقف عند مستوى الكتف؛ الأعلى لا يضيف فائدة."
+   ],
+   "video": "https://www.youtube.com/watch?v=wp_TDRF2Bug",
+   "link": "",
+   "images": [
+    "images/front_raise/0.jpg",
+    "images/front_raise/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "shrug",
+   "nameEn": "Dumbbell Shrug",
+   "nameAr": "شرقات",
+   "emoji": "🏋️",
+   "category": "shoulders",
+   "type": "reps",
+   "equipment": "weights",
+   "level": "beginner",
+   "muscles": [
+    "traps"
+   ],
+   "secondary": [
+    "forearms",
+    "upper_back"
+   ],
+   "stepsEn": [
+    "Stand tall holding a dumbbell in each hand at your sides, arms straight.",
+    "Lift your shoulders straight up toward your ears.",
+    "Squeeze your traps for a second at the top.",
+    "Lower your shoulders slowly all the way down."
+   ],
+   "stepsAr": [
+    "قف باستقامة وفي كل يد دمبل بجانبك والذراعان مفرودتان.",
+    "ارفع كتفيك مباشرة نحو أذنيك.",
+    "اعصر العضلات شبه المنحرفة ثانية في الأعلى.",
+    "أنزل كتفيك ببطء بالكامل."
+   ],
+   "tipsEn": [
+    "Move straight up and down; do not roll your shoulders.",
+    "Keep your arms straight and your head neutral."
+   ],
+   "tipsAr": [
+    "تحرك للأعلى والأسفل بشكل مستقيم ولا تدوّر كتفيك.",
+    "أبقِ ذراعيك مستقيمتين ورأسك محايداً."
+   ],
+   "video": "https://www.youtube.com/watch?v=RLHxN6hq8NA",
+   "link": "",
+   "images": [
+    "images/shrug/0.jpg",
+    "images/shrug/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "pike_pushup",
+   "nameEn": "Pike Push-Up",
+   "nameAr": "ضغط بايك",
+   "emoji": "",
+   "category": "shoulders",
+   "type": "reps",
+   "equipment": "calisthenics",
+   "level": "intermediate",
+   "muscles": [
+    "front_delts",
+    "side_delts"
+   ],
+   "secondary": [
+    "triceps",
+    "chest",
+    "upper_back"
+   ],
+   "stepsEn": [
+    "Start in a downward-dog shape with hips high, hands shoulder-width apart and legs nearly straight.",
+    "Bend your elbows and lower the top of your head toward the floor between your hands.",
+    "Keep your hips high throughout.",
+    "Press back up until your arms are straight."
+   ],
+   "stepsAr": [
+    "ابدأ بوضعية الكلب المنكس والورك عالٍ واليدان بعرض الكتفين والساقان شبه مستقيمتين.",
+    "اثنِ مرفقيك وأنزل أعلى رأسك نحو الأرض بين يديك.",
+    "أبقِ الورك مرتفعاً طوال الحركة.",
+    "ادفع للأعلى حتى تفرد ذراعيك."
+   ],
+   "tipsEn": [
+    "Place a folded towel under your head if it touches the floor.",
+    "Do not let your hips drop; that turns it into a regular push-up."
+   ],
+   "tipsAr": [
+    "ضع منشفة مطوية تحت رأسك إن لامس الأرض.",
+    "لا تدع الورك ينخفض فيتحول إلى ضغط عادي."
+   ],
+   "video": "https://www.youtube.com/watch?v=CDBKxS-a4qQ",
+   "link": "",
+   "images": [],
+   "rev": 1
+  },
+  {
+   "id": "arnold_press",
+   "nameEn": "Arnold Press",
+   "nameAr": "ضغط أرنولد",
+   "emoji": "🏋️",
+   "category": "shoulders",
+   "type": "reps",
+   "equipment": "weights",
+   "level": "intermediate",
+   "muscles": [
+    "front_delts",
+    "side_delts"
+   ],
+   "secondary": [
+    "triceps",
+    "upper_back"
+   ],
+   "stepsEn": [
+    "Sit or stand holding dumbbells at chest height with palms facing you and elbows in front.",
+    "Press up while rotating your palms to face forward.",
+    "Finish with arms nearly straight overhead.",
+    "Reverse the rotation as you lower the dumbbells back to your chest."
+   ],
+   "stepsAr": [
+    "اجلس أو قف وأمسك الدمبل عند مستوى الصدر والراحتان نحوك والمرفقان أمامك.",
+    "ادفع للأعلى مع تدوير راحتيك للأمام.",
+    "أنهِ الحركة وذراعاك شبه مستقيمتين فوق رأسك.",
+    "اعكس الدوران أثناء إنزال الدمبل إلى صدرك."
+   ],
+   "tipsEn": [
+    "Use lighter weight than a normal press.",
+    "Rotate smoothly and keep your core braced."
+   ],
+   "tipsAr": [
+    "استخدم وزناً أخف من الضغط العادي.",
+    "دوّر بسلاسة وأبقِ عضلات البطن مشدودة."
+   ],
+   "video": "https://www.youtube.com/watch?v=fFyrgCWTIaI",
+   "link": "",
+   "images": [
+    "images/arnold_press/0.jpg",
+    "images/arnold_press/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "upright_row",
+   "nameEn": "Dumbbell Upright Row",
+   "nameAr": "سحب عمودي بالدمبل",
+   "emoji": "🏋️",
+   "category": "shoulders",
+   "type": "reps",
+   "equipment": "weights",
+   "level": "intermediate",
+   "muscles": [
+    "side_delts",
+    "traps"
+   ],
+   "secondary": [
+    "biceps",
+    "front_delts"
+   ],
+   "stepsEn": [
+    "Stand holding dumbbells in front of your thighs with palms facing you.",
+    "Pull the dumbbells up along your body, leading with your elbows.",
+    "Stop when your elbows reach about shoulder height.",
+    "Lower slowly with control."
+   ],
+   "stepsAr": [
+    "قف وأمسك الدمبل أمام فخذيك والراحتان نحوك.",
+    "اسحب الدمبل للأعلى بمحاذاة جسمك وقد المرفقين أولاً.",
+    "توقف عندما يصل المرفقان إلى مستوى الكتف تقريباً.",
+    "انزل ببطء وبتحكم."
+   ],
+   "tipsEn": [
+    "Do not pull above shoulder height; it can irritate the shoulders.",
+    "Keep the dumbbells close to your body."
+   ],
+   "tipsAr": [
+    "لا تسحب فوق مستوى الكتف فقد يؤذي الكتفين.",
+    "أبقِ الدمبل قريباً من جسمك."
+   ],
+   "video": "https://www.youtube.com/watch?v=8py31vJppUc",
+   "link": "",
+   "images": [
+    "images/upright_row/0.jpg",
+    "images/upright_row/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "shoulder_taps",
+   "nameEn": "Plank Shoulder Taps",
+   "nameAr": "لمس الكتف في البلانك",
+   "emoji": "",
+   "category": "shoulders",
+   "type": "time",
+   "equipment": "bodyweight",
+   "level": "beginner",
+   "muscles": [
+    "front_delts",
+    "abs"
+   ],
+   "secondary": [
+    "obliques",
+    "triceps",
+    "glutes"
+   ],
+   "stepsEn": [
+    "Start in a high plank with hands under shoulders and feet slightly wider than hip-width.",
+    "Brace your core and squeeze your glutes.",
+    "Lift one hand and tap the opposite shoulder, then return it to the floor.",
+    "Alternate hands for the prescribed time without rocking your hips."
+   ],
+   "stepsAr": [
+    "ابدأ بوضعية البلانك العالي واليدان تحت الكتفين والقدمان أعرض قليلاً من عرض الورك.",
+    "شد عضلات البطن واعصر المؤخرة.",
+    "ارفع يداً والمس الكتف المعاكس ثم أعدها للأرض.",
+    "بدّل اليدين طوال المدة المحددة دون تمايل الورك."
+   ],
+   "tipsEn": [
+    "Widen your feet for more stability.",
+    "Keep your hips as still as possible."
+   ],
+   "tipsAr": [
+    "وسّع قدميك لزيادة الثبات.",
+    "أبقِ الورك ثابتاً قدر الإمكان."
+   ],
+   "video": "https://www.youtube.com/watch?v=mPIym8BigIc",
+   "link": "",
+   "images": [],
+   "rev": 1
+  },
+  {
+   "id": "db_curl",
+   "nameEn": "Dumbbell Biceps Curl",
+   "nameAr": "بايسبس بالدمبل",
+   "emoji": "💪",
+   "category": "arms",
+   "type": "reps",
+   "equipment": "weights",
+   "level": "beginner",
+   "muscles": [
+    "biceps"
+   ],
+   "secondary": [
+    "forearms"
+   ],
+   "stepsEn": [
+    "Stand holding dumbbells at your sides with palms facing forward.",
+    "Keep your elbows tucked against your ribs.",
+    "Curl the dumbbells up toward your shoulders, squeezing your biceps.",
+    "Lower slowly until your arms are straight."
+   ],
+   "stepsAr": [
+    "قف وأمسك الدمبل بجانبيك والراحتان للأمام.",
+    "أبقِ المرفقين ملتصقين بالأضلاع.",
+    "اثنِ الدمبل نحو كتفيك مع عصر العضلة ذات الرأسين.",
+    "انزل ببطء حتى تستقيم ذراعاك."
+   ],
+   "tipsEn": [
+    "Do not swing your body; use a lighter weight if you do.",
+    "Keep your wrists straight."
+   ],
+   "tipsAr": [
+    "لا تتأرجح بجسمك؛ خفف الوزن إن حدث ذلك.",
+    "أبقِ المعصمين مستقيمين."
+   ],
+   "video": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo",
+   "link": "",
+   "images": [
+    "images/db_curl/0.jpg",
+    "images/db_curl/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "hammer_curl",
+   "nameEn": "Hammer Curl",
+   "nameAr": "هامر كيرل",
+   "emoji": "💪",
+   "category": "arms",
+   "type": "reps",
+   "equipment": "weights",
+   "level": "beginner",
+   "muscles": [
+    "biceps",
+    "forearms"
+   ],
+   "secondary": [],
+   "stepsEn": [
+    "Stand with dumbbells at your sides, palms facing your thighs.",
+    "Keep your elbows pinned to your sides.",
+    "Curl the dumbbells up with palms still facing each other.",
+    "Lower slowly to full extension."
+   ],
+   "stepsAr": [
+    "قف والدمبل بجانبيك والراحتان نحو فخذيك.",
+    "ثبت مرفقيك بجانب جسمك.",
+    "اثنِ الدمبل للأعلى مع بقاء الراحتين متقابلتين.",
+    "انزل ببطء حتى تستقيم ذراعاك."
+   ],
+   "tipsEn": [
+    "Do not lean back or swing.",
+    "Keep a firm neutral grip throughout."
+   ],
+   "tipsAr": [
+    "لا تميل للخلف ولا تتأرجح.",
+    "حافظ على قبضة محايدة ثابتة."
+   ],
+   "video": "https://www.youtube.com/watch?v=zC3nLlEvin4",
+   "link": "",
+   "images": [
+    "images/hammer_curl/0.jpg",
+    "images/hammer_curl/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "tri_ext",
+   "nameEn": "Overhead Dumbbell Triceps Extension",
+   "nameAr": "ترايسبس خلف الرأس",
+   "emoji": "🏋️",
+   "category": "arms",
+   "type": "reps",
+   "equipment": "weights",
+   "level": "beginner",
+   "muscles": [
+    "triceps"
+   ],
+   "secondary": [
+    "front_delts"
+   ],
+   "stepsEn": [
+    "Stand or sit holding one dumbbell with both hands overhead, arms straight.",
+    "Keep your elbows pointing forward and close to your head.",
+    "Bend your elbows to lower the dumbbell behind your head.",
+    "Extend your arms back up, squeezing your triceps."
+   ],
+   "stepsAr": [
+    "قف أو اجلس وأمسك دمبلاً واحداً بكلتا يديك فوق رأسك والذراعان مستقيمتان.",
+    "أبقِ المرفقين متجهين للأمام وقريبين من رأسك.",
+    "اثنِ المرفقين لإنزال الدمبل خلف رأسك.",
+    "مدّ ذراعيك للأعلى مع عصر عضلة الترايسبس."
+   ],
+   "tipsEn": [
+    "Do not let your elbows flare out.",
+    "Keep your core tight to avoid arching your back."
+   ],
+   "tipsAr": [
+    "لا تدع المرفقين يتفتحان للخارج.",
+    "شد عضلات البطن لتجنب تقويس الظهر."
+   ],
+   "video": "https://www.youtube.com/watch?v=xbNm9fRoUTw",
+   "link": "",
+   "images": [
+    "images/tri_ext/0.jpg",
+    "images/tri_ext/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "kickback",
+   "nameEn": "Dumbbell Triceps Kickback",
+   "nameAr": "ترايسبس كيك باك",
+   "emoji": "🏋️",
+   "category": "arms",
+   "type": "reps",
+   "equipment": "weights",
+   "level": "beginner",
+   "muscles": [
+    "triceps"
+   ],
+   "secondary": [
+    "rear_delts"
+   ],
+   "stepsEn": [
+    "Hinge forward at the hips with a flat back, holding a dumbbell with your elbow bent at 90 degrees and tucked to your side.",
+    "Keep your upper arm parallel to the floor.",
+    "Extend your forearm back until your arm is straight.",
+    "Squeeze your triceps, then return slowly."
+   ],
+   "stepsAr": [
+    "انحنِ للأمام من الورك بظهر مسطح وأمسك الدمبل والمرفق مثني بزاوية 90 درجة وملتصق بجانبك.",
+    "أبقِ العضد موازياً للأرض.",
+    "مدّ ساعدك للخلف حتى تستقيم ذراعك.",
+    "اعصر الترايسبس ثم عد ببطء."
+   ],
+   "tipsEn": [
+    "Only your forearm should move; keep your elbow fixed.",
+    "Use a light weight to keep strict form."
+   ],
+   "tipsAr": [
+    "الساعد وحده يتحرك؛ ثبت المرفق.",
+    "استخدم وزناً خفيفاً للحفاظ على الأداء الصحيح."
+   ],
+   "video": "https://www.youtube.com/watch?v=liM-u9DMaZg",
+   "link": "",
+   "images": [
+    "images/kickback/0.jpg",
+    "images/kickback/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "chair_dips",
+   "nameEn": "Bench Dips",
+   "nameAr": "ترايسبس على كرسي",
+   "emoji": "",
+   "category": "arms",
+   "type": "reps",
+   "equipment": "bodyweight",
+   "level": "beginner",
+   "muscles": [
+    "triceps"
+   ],
+   "secondary": [
+    "chest",
+    "front_delts"
+   ],
+   "stepsEn": [
+    "Sit on the edge of a sturdy chair, place your hands beside your hips and walk your feet forward.",
+    "Slide your hips off the chair with arms straight.",
+    "Bend your elbows backward to lower until upper arms are about parallel to the floor.",
+    "Press up to straight arms."
+   ],
+   "stepsAr": [
+    "اجلس على حافة كرسي ثابت وضع يديك بجانب وركك وأبعد قدميك للأمام.",
+    "أزح وركك عن الكرسي والذراعان مستقيمتان.",
+    "اثنِ مرفقيك للخلف وانزل حتى يصبح العضدان موازيين للأرض تقريباً.",
+    "ادفع للأعلى حتى تفرد ذراعيك."
+   ],
+   "tipsEn": [
+    "Keep your back close to the chair and shoulders down.",
+    "Make sure the chair cannot slip; place it against a wall."
+   ],
+   "tipsAr": [
+    "أبقِ ظهرك قريباً من الكرسي وكتفيك للأسفل.",
+    "تأكد أن الكرسي لا ينزلق؛ ضعه على الحائط."
+   ],
+   "video": "https://www.youtube.com/watch?v=e5Gyc1D_BxM",
+   "link": "",
+   "images": [
+    "images/chair_dips/0.jpg",
+    "images/chair_dips/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "concentration_curl",
+   "nameEn": "Concentration Curl",
+   "nameAr": "كيرل التركيز",
+   "emoji": "💪",
+   "category": "arms",
+   "type": "reps",
+   "equipment": "weights",
+   "level": "beginner",
+   "muscles": [
+    "biceps"
+   ],
+   "secondary": [
+    "forearms"
+   ],
+   "stepsEn": [
+    "Sit on a bench with legs apart and hold a dumbbell in one hand, with the back of your upper arm resting against your inner thigh.",
+    "Let the arm hang straight.",
+    "Curl the dumbbell up toward your shoulder.",
+    "Squeeze at the top and lower slowly."
+   ],
+   "stepsAr": [
+    "اجلس على مقعد والساقان متباعدتان وأمسك دمبلاً بيد واحدة مع استناد خلف العضد على الفخذ الداخلي.",
+    "دع الذراع معلقة بشكل مستقيم.",
+    "اثنِ الدمبل نحو كتفك.",
+    "اعصر في الأعلى وانزل ببطء."
+   ],
+   "tipsEn": [
+    "Keep your upper arm still; do not swing.",
+    "Avoid leaning your torso back."
+   ],
+   "tipsAr": [
+    "أبقِ العضد ثابتاً ولا تتأرجح.",
+    "تجنب إمالة جذعك للخلف."
+   ],
+   "video": "https://www.youtube.com/watch?v=IX3d5lTPais",
+   "link": "",
+   "images": [
+    "images/concentration_curl/0.jpg",
+    "images/concentration_curl/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "zottman_curl",
+   "nameEn": "Zottman Curl",
+   "nameAr": "زوتمان كيرل",
+   "emoji": "💪",
+   "category": "arms",
+   "type": "reps",
+   "equipment": "weights",
+   "level": "intermediate",
+   "muscles": [
+    "biceps",
+    "forearms"
+   ],
+   "secondary": [],
+   "stepsEn": [
+    "Stand holding dumbbells at your sides with palms facing forward.",
+    "Curl both dumbbells up to your shoulders.",
+    "At the top, rotate your wrists so your palms face down.",
+    "Lower slowly in that position, then rotate back to start."
+   ],
+   "stepsAr": [
+    "قف وأمسك الدمبل بجانبيك والراحتان للأمام.",
+    "اثنِ الدمبلين حتى كتفيك.",
+    "في الأعلى دوّر معصميك لتصبح الراحتان للأسفل.",
+    "انزل ببطء بهذه الوضعية ثم دوّر المعصمين للبداية."
+   ],
+   "tipsEn": [
+    "Use a lighter weight; the lowering phase hits the forearms.",
+    "Keep your elbows pinned to your sides."
+   ],
+   "tipsAr": [
+    "استخدم وزناً أخف؛ مرحلة النزول تعمل على الساعدين.",
+    "ثبت مرفقيك بجانب جسمك."
+   ],
+   "video": "https://www.youtube.com/watch?v=KhXiqxGxu1s",
+   "link": "",
+   "images": [
+    "images/zottman_curl/0.jpg",
+    "images/zottman_curl/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "db_skull_crusher",
+   "nameEn": "Dumbbell Skull Crusher",
+   "nameAr": "سكل كراشر بالدمبل",
+   "emoji": "🏋️",
+   "category": "arms",
+   "type": "reps",
+   "equipment": "weights",
+   "level": "intermediate",
+   "muscles": [
+    "triceps"
+   ],
+   "secondary": [
+    "chest"
+   ],
+   "stepsEn": [
+    "Lie on a bench or the floor holding dumbbells above your chest, palms facing each other.",
+    "Keep your upper arms still and vertical.",
+    "Bend your elbows to lower the dumbbells toward the sides of your head.",
+    "Extend your arms back up by squeezing your triceps."
+   ],
+   "stepsAr": [
+    "استلقِ على مقعد أو الأرض وأمسك الدمبل فوق صدرك والراحتان متقابلتان.",
+    "أبقِ العضدين ثابتين وعموديين.",
+    "اثنِ المرفقين لإنزال الدمبل نحو جانبي رأسك.",
+    "مدّ ذراعيك للأعلى بعصر الترايسبس."
+   ],
+   "tipsEn": [
+    "Start light; dumbbells near your head need control.",
+    "Keep your elbows from flaring outward."
+   ],
+   "tipsAr": [
+    "ابدأ بوزن خفيف؛ الدمبل قرب رأسك يحتاج تحكماً.",
+    "لا تدع المرفقين يتفتحان للخارج."
+   ],
+   "video": "https://www.youtube.com/watch?v=8ncEJDm7Cig",
+   "link": "",
+   "images": [
+    "images/db_skull_crusher/0.jpg",
+    "images/db_skull_crusher/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "wrist_curl",
+   "nameEn": "Dumbbell Wrist Curl",
+   "nameAr": "لف المعصم بالدمبل",
+   "emoji": "",
+   "category": "arms",
+   "type": "reps",
+   "equipment": "weights",
+   "level": "beginner",
+   "muscles": [
+    "forearms"
+   ],
+   "secondary": [],
+   "stepsEn": [
+    "Sit with your forearms resting on your thighs, palms up, holding light dumbbells with wrists hanging past your knees.",
+    "Lower the dumbbells by opening your hands slightly.",
+    "Curl your wrists upward as far as you can.",
+    "Lower slowly and repeat."
+   ],
+   "stepsAr": [
+    "اجلس وساعداك على فخذيك والراحتان للأعلى وأمسك دمبلاً خفيفاً والمعصمان خارج الركبتين.",
+    "أنزل الدمبل بفتح اليدين قليلاً.",
+    "اثنِ معصميك للأعلى قدر استطاعتك.",
+    "انزل ببطء وكرر."
+   ],
+   "tipsEn": [
+    "Use a light weight and a full range of motion.",
+    "Keep your forearms still on your thighs."
+   ],
+   "tipsAr": [
+    "استخدم وزناً خفيفاً ومدى حركة كاملاً.",
+    "أبقِ ساعديك ثابتين على فخذيك."
+   ],
+   "video": "https://www.youtube.com/watch?v=7ac_qmBjkFI",
+   "link": "",
+   "images": [],
+   "rev": 1
+  },
+  {
+   "id": "squat",
+   "nameEn": "Bodyweight Squat",
+   "nameAr": "سكوات",
+   "emoji": "🦵",
+   "category": "legs",
+   "type": "reps",
+   "equipment": "bodyweight",
+   "level": "beginner",
+   "muscles": [
+    "quads",
+    "glutes"
+   ],
+   "secondary": [
+    "hamstrings",
+    "abs",
+    "lower_back"
+   ],
+   "stepsEn": [
+    "Stand with feet shoulder-width apart, toes slightly turned out, arms in front of you.",
+    "Brace your core and inhale as you push your hips back and bend your knees.",
+    "Lower until your thighs are parallel to the floor, keeping your chest up and heels down.",
+    "Exhale and drive through your whole foot to stand back up."
+   ],
+   "stepsAr": [
+    "قف والقدمان بعرض الكتفين وأصابع القدم مائلة قليلاً للخارج، والذراعان أمامك.",
+    "شد عضلات البطن، ثم خذ شهيقاً وادفع الحوض للخلف واثنِ الركبتين.",
+    "انزل حتى يصبح الفخذان موازيين للأرض مع إبقاء الصدر مرفوعاً والكعبين ملتصقين بالأرض.",
+    "ازفر وادفع الأرض بكامل القدم لتعود إلى وضع الوقوف."
+   ],
+   "tipsEn": [
+    "Keep your knees in line with your toes; do not let them cave inward.",
+    "Do not round your lower back at the bottom."
+   ],
+   "tipsAr": [
+    "اجعل الركبتين في اتجاه أصابع القدم ولا تدعهما تنطبقان للداخل.",
+    "لا تقوّس أسفل الظهر عند أخفض نقطة."
+   ],
+   "video": "https://www.youtube.com/watch?v=CKcDiJnLaLY",
+   "link": "",
+   "images": [
+    "images/squat/0.jpg",
+    "images/squat/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "goblet",
+   "nameEn": "Goblet Squat",
+   "nameAr": "سكوات جوبلت",
+   "emoji": "🏋️",
+   "category": "legs",
+   "type": "reps",
+   "equipment": "weights",
+   "level": "beginner",
+   "muscles": [
+    "quads",
+    "glutes"
+   ],
+   "secondary": [
+    "abs",
+    "upper_back",
+    "hamstrings"
+   ],
+   "stepsEn": [
+    "Hold one dumbbell vertically against your chest with both hands, elbows pointing down.",
+    "Stand with feet slightly wider than shoulders and brace your core.",
+    "Inhale and squat down between your knees until your thighs are parallel or lower.",
+    "Exhale and push through your heels to stand up, keeping the dumbbell close."
+   ],
+   "stepsAr": [
+    "أمسك دمبل واحداً بشكل عمودي أمام صدرك بكلتا يديك والمرفقان للأسفل.",
+    "قف والقدمان أوسع قليلاً من الكتفين وشد عضلات البطن.",
+    "خذ شهيقاً وانزل بين ركبتيك حتى يصبح الفخذان موازيين للأرض أو أخفض.",
+    "ازفر وادفع بكعبيك لتقف مع إبقاء الدمبل قريباً من الصدر."
+   ],
+   "tipsEn": [
+    "Keep your chest tall; do not let the weight pull you forward.",
+    "Push your knees out in line with your toes."
+   ],
+   "tipsAr": [
+    "أبقِ صدرك مرفوعاً ولا تدع الوزن يسحبك للأمام.",
+    "ادفع ركبتيك للخارج باتجاه أصابع القدم."
+   ],
+   "video": "https://www.youtube.com/watch?v=JO7D6GJ98wY",
+   "link": "",
+   "images": [
+    "images/goblet/0.jpg",
+    "images/goblet/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "lunge",
+   "nameEn": "Forward Lunge",
+   "nameAr": "اندفاع",
+   "emoji": "🦵",
+   "category": "legs",
+   "type": "reps",
+   "equipment": "bodyweight",
+   "level": "beginner",
+   "muscles": [
+    "quads",
+    "glutes"
+   ],
+   "secondary": [
+    "hamstrings",
+    "calves",
+    "abs"
+   ],
+   "stepsEn": [
+    "Stand tall with feet hip-width apart and hands on your hips.",
+    "Take a big step forward with one leg and plant the whole foot.",
+    "Lower your back knee toward the floor until both knees are bent about 90 degrees.",
+    "Push through the front heel to return to standing, then switch legs."
+   ],
+   "stepsAr": [
+    "قف منتصباً والقدمان بعرض الحوض ويداك على خصرك.",
+    "خذ خطوة كبيرة للأمام بقدم واحدة وثبّت القدم كاملة على الأرض.",
+    "اخفض الركبة الخلفية نحو الأرض حتى تنثني الركبتان بزاوية 90 درجة تقريباً.",
+    "ادفع بكعب القدم الأمامية لتعود للوقوف ثم بدّل الساق."
+   ],
+   "tipsEn": [
+    "Keep your torso upright and your front knee over your ankle.",
+    "Take a long enough step so your front knee does not travel far past your toes."
+   ],
+   "tipsAr": [
+    "أبقِ جذعك مستقيماً والركبة الأمامية فوق الكاحل.",
+    "اجعل الخطوة طويلة بما يكفي حتى لا تتجاوز الركبة أصابع القدم كثيراً."
+   ],
+   "video": "https://www.youtube.com/watch?v=GdvSP_jxkps",
+   "link": "",
+   "images": [
+    "images/lunge/0.jpg",
+    "images/lunge/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "db_lunge",
+   "nameEn": "Dumbbell Lunge",
+   "nameAr": "اندفاع بالدمبل",
+   "emoji": "🏋️",
+   "category": "legs",
+   "type": "reps",
+   "equipment": "weights",
+   "level": "beginner",
+   "muscles": [
+    "quads",
+    "glutes"
+   ],
+   "secondary": [
+    "hamstrings",
+    "calves",
+    "forearms"
+   ],
+   "stepsEn": [
+    "Hold a dumbbell in each hand at your sides and stand tall with feet hip-width apart.",
+    "Step forward with one leg and plant your whole foot firmly.",
+    "Lower your back knee toward the floor until both knees reach about 90 degrees.",
+    "Drive through the front heel to stand back up, then alternate legs."
+   ],
+   "stepsAr": [
+    "أمسك دمبلاً في كل يد بجانب جسمك وقف منتصباً والقدمان بعرض الحوض.",
+    "خذ خطوة للأمام بقدم واحدة وثبّت القدم كاملة على الأرض.",
+    "اخفض الركبة الخلفية نحو الأرض حتى تنثني الركبتان بزاوية 90 درجة تقريباً.",
+    "ادفع بكعب القدم الأمامية لتعود للوقوف ثم بدّل الساق."
+   ],
+   "tipsEn": [
+    "Keep your chest up and do not lean forward.",
+    "Let the dumbbells hang straight down; do not swing them."
+   ],
+   "tipsAr": [
+    "أبقِ صدرك مرفوعاً ولا تنحنِ للأمام.",
+    "اترك الدمبلات معلقة بشكل مستقيم ولا تتأرجح بها."
+   ],
+   "video": "https://www.youtube.com/watch?v=pT7K8D8SLk4",
+   "link": "",
+   "images": [
+    "images/db_lunge/0.jpg",
+    "images/db_lunge/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "bulgarian",
+   "nameEn": "Bulgarian Split Squat",
+   "nameAr": "سكوات بلغاري",
+   "emoji": "",
+   "category": "legs",
+   "type": "reps",
+   "equipment": "calisthenics",
+   "level": "intermediate",
+   "muscles": [
+    "quads",
+    "glutes"
+   ],
+   "secondary": [
+    "hamstrings",
+    "adductors",
+    "abs"
+   ],
+   "stepsEn": [
+    "Stand about two steps in front of a bench or chair and rest the top of one foot on it behind you.",
+    "Keep your torso upright and brace your core.",
+    "Inhale and lower straight down until your front thigh is about parallel to the floor.",
+    "Exhale and push through the front heel to stand. Finish all reps, then switch legs."
+   ],
+   "stepsAr": [
+    "قف على بعد خطوتين تقريباً أمام كرسي أو مقعد وضع ظهر قدم واحدة عليه من الخلف.",
+    "أبقِ جذعك مستقيماً وشد عضلات البطن.",
+    "خذ شهيقاً وانزل للأسفل بشكل مستقيم حتى يصبح الفخذ الأمامي موازياً للأرض تقريباً.",
+    "ازفر وادفع بكعب القدم الأمامية لتقف. أكمل التكرارات ثم بدّل الساق."
+   ],
+   "tipsEn": [
+    "Place your front foot far enough forward so the knee stays over the ankle.",
+    "Use a wall or chair for balance until you feel stable."
+   ],
+   "tipsAr": [
+    "ضع القدم الأمامية بعيداً بما يكفي ليبقى الركبة فوق الكاحل.",
+    "استند إلى حائط أو كرسي للتوازن حتى تثبت."
+   ],
+   "video": "https://www.youtube.com/watch?v=VPhhE6bBzZE",
+   "link": "",
+   "images": [],
+   "rev": 1
+  },
+  {
+   "id": "rdl",
+   "nameEn": "Dumbbell Romanian Deadlift",
+   "nameAr": "رفعة رومانية بالدمبل",
+   "emoji": "🏋️",
+   "category": "legs",
+   "type": "reps",
+   "equipment": "weights",
+   "level": "intermediate",
+   "muscles": [
+    "hamstrings",
+    "glutes"
+   ],
+   "secondary": [
+    "lower_back",
+    "forearms",
+    "traps"
+   ],
+   "stepsEn": [
+    "Stand with feet hip-width apart holding dumbbells in front of your thighs, knees slightly bent.",
+    "Brace your core and push your hips straight back, sliding the dumbbells down your legs.",
+    "Lower until you feel a strong stretch in the hamstrings, back flat, usually mid-shin.",
+    "Squeeze your glutes and drive your hips forward to stand tall."
+   ],
+   "stepsAr": [
+    "قف والقدمان بعرض الحوض وأمسك الدمبلات أمام فخذيك والركبتان مثنيتان قليلاً.",
+    "شد عضلات البطن وادفع الحوض للخلف بشكل مستقيم مع تمرير الدمبلات على ساقيك.",
+    "انزل حتى تشعر بشد قوي في عضلات الفخذ الخلفية والظهر مستقيم، غالباً حتى منتصف الساق.",
+    "اعصر الأرداف وادفع الحوض للأمام لتقف منتصباً."
+   ],
+   "tipsEn": [
+    "Keep your back flat and the dumbbells close to your legs.",
+    "Hinge at the hips; do not squat down."
+   ],
+   "tipsAr": [
+    "أبقِ ظهرك مسطحاً والدمبلات قريبة من ساقيك.",
+    "اثنِ من الحوض ولا تنزل كأنك تؤدي سكوات."
+   ],
+   "video": "https://www.youtube.com/watch?v=hQgFixeXdZo",
+   "link": "",
+   "images": [
+    "images/rdl/0.jpg",
+    "images/rdl/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "glute_bridge",
+   "nameEn": "Glute Bridge",
+   "nameAr": "جسر الأرداف",
+   "emoji": "",
+   "category": "legs",
+   "type": "reps",
+   "equipment": "bodyweight",
+   "level": "beginner",
+   "muscles": [
+    "glutes"
+   ],
+   "secondary": [
+    "hamstrings",
+    "abs",
+    "lower_back"
+   ],
+   "stepsEn": [
+    "Lie on your back with knees bent, feet flat on the floor hip-width apart, arms at your sides.",
+    "Brace your core and press through your heels.",
+    "Lift your hips until your body forms a straight line from shoulders to knees.",
+    "Squeeze your glutes for a second, then lower slowly."
+   ],
+   "stepsAr": [
+    "استلقِ على ظهرك والركبتان مثنيتان والقدمان على الأرض بعرض الحوض والذراعان بجانبك.",
+    "شد عضلات البطن وادفع الأرض بكعبيك.",
+    "ارفع الحوض حتى يصبح جسمك خطاً مستقيماً من الكتفين إلى الركبتين.",
+    "اعصر الأرداف لثانية ثم انزل ببطء."
+   ],
+   "tipsEn": [
+    "Do not over-arch your lower back at the top.",
+    "Push through your heels, not your toes."
+   ],
+   "tipsAr": [
+    "لا تبالغ في تقوس أسفل الظهر عند القمة.",
+    "ادفع بكعبيك وليس بأصابع القدم."
+   ],
+   "video": "https://www.youtube.com/watch?v=Q_Bpj91Yiis",
+   "link": "",
+   "images": [
+    "images/glute_bridge/0.jpg",
+    "images/glute_bridge/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "calf_raise",
+   "nameEn": "Standing Calf Raise",
+   "nameAr": "رفع السمانة",
+   "emoji": "🦶",
+   "category": "legs",
+   "type": "reps",
+   "equipment": "bodyweight",
+   "level": "beginner",
+   "muscles": [
+    "calves"
+   ],
+   "secondary": [],
+   "stepsEn": [
+    "Stand tall with feet hip-width apart, holding a wall or chair for balance if needed.",
+    "Press through the balls of your feet and rise as high as you can on your toes.",
+    "Pause and squeeze your calves at the top for a second.",
+    "Lower your heels slowly back to the floor."
+   ],
+   "stepsAr": [
+    "قف منتصباً والقدمان بعرض الحوض، وتمسك بحائط أو كرسي للتوازن عند الحاجة.",
+    "اضغط بمقدمة القدمين وارتفع على أصابعك لأعلى ما تستطيع.",
+    "اثبت واعصر السمانة لثانية عند القمة.",
+    "انزل بكعبيك ببطء إلى الأرض."
+   ],
+   "tipsEn": [
+    "Go through the full range, especially the slow lowering part.",
+    "Do not bounce or let your ankles roll outward."
+   ],
+   "tipsAr": [
+    "أدِّ الحركة بمدى كامل خصوصاً النزول البطيء.",
+    "لا ترتد ولا تدع الكاحلين يميلان للخارج."
+   ],
+   "video": "https://www.youtube.com/watch?v=Uyg2QR1WAq8",
+   "link": "",
+   "images": [],
+   "rev": 1
+  },
+  {
+   "id": "step_up",
+   "nameEn": "Step-Up",
+   "nameAr": "صعود الكرسي",
+   "emoji": "",
+   "category": "legs",
+   "type": "reps",
+   "equipment": "bodyweight",
+   "level": "beginner",
+   "muscles": [
+    "quads",
+    "glutes"
+   ],
+   "secondary": [
+    "hamstrings",
+    "calves"
+   ],
+   "stepsEn": [
+    "Stand facing a sturdy chair or bench about knee height.",
+    "Place one whole foot on the seat.",
+    "Press through that heel to lift your body up until you stand fully on the seat.",
+    "Step back down slowly with control. Finish your reps, then switch legs."
+   ],
+   "stepsAr": [
+    "قف أمام كرسي أو مقعد ثابت بارتفاع الركبة تقريباً.",
+    "ضع قدماً واحدة كاملة على المقعد.",
+    "ادفع بكعب تلك القدم لترفع جسمك حتى تقف بالكامل على المقعد.",
+    "انزل ببطء وتحكم. أكمل التكرارات ثم بدّل الساق."
+   ],
+   "tipsEn": [
+    "Use the working leg to lift; do not push off the floor with the back foot.",
+    "Make sure the chair cannot slide."
+   ],
+   "tipsAr": [
+    "اعتمد على الساق العاملة في الصعود ولا تدفع بالقدم الخلفية.",
+    "تأكد أن الكرسي ثابت ولا ينزلق."
+   ],
+   "video": "https://www.youtube.com/watch?v=vs87hPGdnCc",
+   "link": "",
+   "images": [
+    "images/step_up/0.jpg",
+    "images/step_up/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "jump_squat",
+   "nameEn": "Jump Squat",
+   "nameAr": "سكوات قفز",
+   "emoji": "",
+   "category": "legs",
+   "type": "reps",
+   "equipment": "calisthenics",
+   "level": "intermediate",
+   "muscles": [
+    "quads",
+    "glutes"
+   ],
+   "secondary": [
+    "calves",
+    "hamstrings",
+    "abs"
+   ],
+   "stepsEn": [
+    "Stand with feet shoulder-width apart and squat down to thigh-parallel.",
+    "Swing your arms back and explode upward, jumping as high as you can.",
+    "Land softly on the middle of your feet with knees bent.",
+    "Sink straight into the next squat and repeat."
+   ],
+   "stepsAr": [
+    "قف والقدمان بعرض الكتفين وانزل في وضع السكوات حتى يتوازى الفخذان مع الأرض.",
+    "حرّك ذراعيك للخلف وانطلق للأعلى بقوة وقفز لأعلى ما تستطيع.",
+    "اهبط بلطف على منتصف القدمين مع ثني الركبتين.",
+    "انزل مباشرة إلى السكوات التالي وكرر."
+   ],
+   "tipsEn": [
+    "Land quietly; loud landings mean too much impact on the joints.",
+    "Keep your knees pointing in line with your toes."
+   ],
+   "tipsAr": [
+    "اهبط بهدوء؛ الهبوط العالي الصوت يعني ضغطاً زائداً على المفاصل.",
+    "اجعل الركبتين في اتجاه أصابع القدم."
+   ],
+   "video": "https://www.youtube.com/watch?v=SDJIQq-BrCc",
+   "link": "",
+   "images": [
+    "images/jump_squat/0.jpg",
+    "images/jump_squat/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "wall_sit",
+   "nameEn": "Wall Sit",
+   "nameAr": "جلوس على الحائط",
+   "emoji": "",
+   "category": "legs",
+   "type": "time",
+   "equipment": "bodyweight",
+   "level": "beginner",
+   "muscles": [
+    "quads"
+   ],
+   "secondary": [
+    "glutes",
+    "hamstrings",
+    "calves"
+   ],
+   "stepsEn": [
+    "Stand with your back against a wall and feet about two feet in front of you.",
+    "Slide down until your knees are bent at 90 degrees and thighs are parallel to the floor.",
+    "Keep your back flat on the wall and hold this position for the prescribed time.",
+    "Breathe steadily, then slide back up to finish."
+   ],
+   "stepsAr": [
+    "قف وظهرك على الحائط والقدمان أمامك بمسافة نحو ستين سنتيمتراً.",
+    "انزلق للأسفل حتى تنثني الركبتان بزاوية 90 درجة ويتوازى الفخذان مع الأرض.",
+    "أبقِ ظهرك ملتصقاً بالحائط وثبّت الوضعية للمدة المطلوبة.",
+    "تنفس بانتظام ثم انزلق للأعلى لإنهاء التمرين."
+   ],
+   "tipsEn": [
+    "Keep your knees directly above your ankles.",
+    "Do not rest your hands on your thighs."
+   ],
+   "tipsAr": [
+    "اجعل الركبتين فوق الكاحلين مباشرة.",
+    "لا تضع يديك على فخذيك."
+   ],
+   "video": "https://www.youtube.com/watch?v=JaZNYM3zAP0",
+   "link": "",
+   "images": [],
+   "rev": 1
+  },
+  {
+   "id": "sumo_squat",
+   "nameEn": "Sumo Squat",
+   "nameAr": "سكوات سومو",
+   "emoji": "🦵",
+   "category": "legs",
+   "type": "reps",
+   "equipment": "bodyweight",
+   "level": "beginner",
+   "muscles": [
+    "quads",
+    "glutes",
+    "adductors"
+   ],
+   "secondary": [
+    "hamstrings",
+    "abs"
+   ],
+   "stepsEn": [
+    "Stand with feet much wider than shoulders and toes turned out about 45 degrees.",
+    "Clasp your hands in front of your chest and brace your core.",
+    "Bend your knees and lower straight down, pushing knees out over your toes.",
+    "Squeeze your glutes and inner thighs to stand back up."
+   ],
+   "stepsAr": [
+    "قف والقدمان أوسع بكثير من الكتفين وأصابع القدم مائلة للخارج نحو 45 درجة.",
+    "شبّك يديك أمام صدرك وشد عضلات البطن.",
+    "اثنِ الركبتين وانزل بشكل مستقيم مع دفع الركبتين للخارج باتجاه أصابع القدم.",
+    "اعصر الأرداف والفخذين الداخليين لتعود للوقوف."
+   ],
+   "tipsEn": [
+    "Keep your torso upright; do not lean forward.",
+    "Do not let your knees collapse inward."
+   ],
+   "tipsAr": [
+    "أبقِ جذعك مستقيماً ولا تنحنِ للأمام.",
+    "لا تدع الركبتين تنطبقان للداخل."
+   ],
+   "video": "https://www.youtube.com/watch?v=sqDGkIBYPAk",
+   "link": "",
+   "images": [
+    "images/sumo_squat/0.jpg",
+    "images/sumo_squat/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "reverse_lunge",
+   "nameEn": "Reverse Lunge",
+   "nameAr": "اندفاع للخلف",
+   "emoji": "🦵",
+   "category": "legs",
+   "type": "reps",
+   "equipment": "bodyweight",
+   "level": "beginner",
+   "muscles": [
+    "glutes",
+    "quads"
+   ],
+   "secondary": [
+    "hamstrings",
+    "abs"
+   ],
+   "stepsEn": [
+    "Stand tall with feet hip-width apart and hands on your hips.",
+    "Step one foot back and land on the ball of that foot.",
+    "Lower your back knee toward the floor until both knees are bent about 90 degrees.",
+    "Push through the front heel to bring your back foot forward, then switch legs."
+   ],
+   "stepsAr": [
+    "قف منتصباً والقدمان بعرض الحوض ويداك على خصرك.",
+    "خذ خطوة للخلف بقدم واحدة واهبط على مقدمة القدم.",
+    "اخفض الركبة الخلفية نحو الأرض حتى تنثني الركبتان بزاوية 90 درجة تقريباً.",
+    "ادفع بكعب القدم الأمامية لتعيد القدم الخلفية للأمام ثم بدّل الساق."
+   ],
+   "tipsEn": [
+    "Keep your weight on the front leg and your chest up.",
+    "Step back far enough that your front shin stays near vertical."
+   ],
+   "tipsAr": [
+    "اجعل وزنك على الساق الأمامية وصدرك مرفوعاً.",
+    "خذ خطوة طويلة بما يكفي ليبقى ساق القدم الأمامية شبه عمودية."
+   ],
+   "video": "https://www.youtube.com/watch?v=-Nr6dqEvz3Q",
+   "link": "",
+   "images": [
+    "images/reverse_lunge/0.jpg",
+    "images/reverse_lunge/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "lateral_lunge",
+   "nameEn": "Lateral Lunge",
+   "nameAr": "اندفاع جانبي",
+   "emoji": "🦵",
+   "category": "legs",
+   "type": "reps",
+   "equipment": "bodyweight",
+   "level": "beginner",
+   "muscles": [
+    "quads",
+    "glutes",
+    "adductors"
+   ],
+   "secondary": [
+    "hamstrings",
+    "abductors"
+   ],
+   "stepsEn": [
+    "Stand tall with feet together and hands clasped at your chest.",
+    "Take a big step to the side and plant your foot with toes pointing forward.",
+    "Push your hips back and bend that knee, keeping the other leg straight.",
+    "Push off the bent leg to return to the start, then switch sides."
+   ],
+   "stepsAr": [
+    "قف منتصباً والقدمان متلاصقتان ويداك مشبوكتان عند صدرك.",
+    "خذ خطوة كبيرة للجانب وثبّت قدمك وأصابعها تتجه للأمام.",
+    "ادفع الحوض للخلف واثنِ تلك الركبة مع إبقاء الساق الأخرى مستقيمة.",
+    "ادفع بالساق المثنية لتعود لوضع البداية ثم بدّل الجانب."
+   ],
+   "tipsEn": [
+    "Keep your chest up and the bent knee tracking over your toes.",
+    "Keep both feet flat on the floor."
+   ],
+   "tipsAr": [
+    "أبقِ صدرك مرفوعاً والركبة المثنية في اتجاه أصابع القدم.",
+    "أبقِ القدمين مسطحتين على الأرض."
+   ],
+   "video": "https://www.youtube.com/watch?v=sGZn1_WK6gc",
+   "link": "",
+   "images": [],
+   "rev": 1
+  },
+  {
+   "id": "single_leg_rdl",
+   "nameEn": "Single-Leg Romanian Deadlift",
+   "nameAr": "رفعة رومانية بساق واحدة",
+   "emoji": "",
+   "category": "legs",
+   "type": "reps",
+   "equipment": "bodyweight",
+   "level": "intermediate",
+   "muscles": [
+    "hamstrings",
+    "glutes"
+   ],
+   "secondary": [
+    "lower_back",
+    "abs",
+    "calves"
+   ],
+   "stepsEn": [
+    "Stand on one leg with a slight bend in the knee, arms hanging in front.",
+    "Brace your core and hinge at the hips, extending the other leg straight behind you.",
+    "Lower your torso until it is nearly parallel to the floor, back flat.",
+    "Squeeze your glute to return to standing, then switch legs."
+   ],
+   "stepsAr": [
+    "قف على ساق واحدة مع ثني بسيط في الركبة والذراعان متدليتان أمامك.",
+    "شد عضلات البطن واثنِ من الحوض مع مد الساق الأخرى للخلف بشكل مستقيم.",
+    "أنزل جذعك حتى يصبح شبه موازٍ للأرض والظهر مسطح.",
+    "اعصر الأرداف لتعود للوقوف ثم بدّل الساق."
+   ],
+   "tipsEn": [
+    "Keep your hips square to the floor; do not open them up.",
+    "Fix your eyes on a point on the floor to stay balanced."
+   ],
+   "tipsAr": [
+    "أبقِ الحوض مواجهاً للأرض ولا تفتحه للجانب.",
+    "ثبّت نظرك على نقطة في الأرض للحفاظ على التوازن."
+   ],
+   "video": "https://www.youtube.com/watch?v=Zfr6wizR8rs",
+   "link": "",
+   "images": [
+    "images/single_leg_rdl/0.jpg",
+    "images/single_leg_rdl/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "single_leg_bridge",
+   "nameEn": "Single-Leg Glute Bridge",
+   "nameAr": "جسر الأرداف بساق واحدة",
+   "emoji": "",
+   "category": "legs",
+   "type": "reps",
+   "equipment": "bodyweight",
+   "level": "intermediate",
+   "muscles": [
+    "glutes"
+   ],
+   "secondary": [
+    "hamstrings",
+    "abs",
+    "lower_back"
+   ],
+   "stepsEn": [
+    "Lie on your back with knees bent and feet flat, then extend one leg straight up.",
+    "Brace your core and press through the heel of the planted foot.",
+    "Lift your hips until your body forms a straight line from shoulder to knee.",
+    "Lower slowly without touching the floor, finish your reps, then switch legs."
+   ],
+   "stepsAr": [
+    "استلقِ على ظهرك والركبتان مثنيتان والقدمان مسطحتان ثم مد ساقاً واحدة للأعلى.",
+    "شد عضلات البطن وادفع بكعب القدم المثبتة على الأرض.",
+    "ارفع الحوض حتى يصبح جسمك خطاً مستقيماً من الكتف إلى الركبة.",
+    "انزل ببطء دون لمس الأرض، أكمل التكرارات ثم بدّل الساق."
+   ],
+   "tipsEn": [
+    "Keep your hips level; do not let one side drop.",
+    "Do not arch your lower back to get higher."
+   ],
+   "tipsAr": [
+    "أبقِ الحوض مستوياً ولا تدع أحد الجانبين ينخفض.",
+    "لا تقوّس أسفل الظهر لترتفع أكثر."
+   ],
+   "video": "https://www.youtube.com/watch?v=9MmRVRSevzc",
+   "link": "",
+   "images": [
+    "images/single_leg_bridge/0.jpg",
+    "images/single_leg_bridge/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "hip_thrust",
+   "nameEn": "Hip Thrust",
+   "nameAr": "دفع الحوض",
+   "emoji": "",
+   "category": "legs",
+   "type": "reps",
+   "equipment": "bodyweight",
+   "level": "beginner",
+   "muscles": [
+    "glutes"
+   ],
+   "secondary": [
+    "hamstrings",
+    "quads",
+    "abs"
+   ],
+   "stepsEn": [
+    "Sit on the floor with your upper back against a couch or bench and knees bent, feet flat.",
+    "Brace your core and tuck your chin slightly.",
+    "Drive through your heels and lift your hips until your torso is parallel to the floor.",
+    "Squeeze your glutes hard at the top, then lower slowly."
+   ],
+   "stepsAr": [
+    "اجلس على الأرض وأعلى ظهرك مستند إلى أريكة أو مقعد والركبتان مثنيتان والقدمان مسطحتان.",
+    "شد عضلات البطن وقرّب ذقنك قليلاً من صدرك.",
+    "ادفع بكعبيك وارفع الحوض حتى يصبح جذعك موازياً للأرض.",
+    "اعصر الأرداف بقوة عند القمة ثم انزل ببطء."
+   ],
+   "tipsEn": [
+    "Keep your ribs down so the work stays in the glutes, not the lower back.",
+    "Add a dumbbell on your hips once bodyweight feels easy."
+   ],
+   "tipsAr": [
+    "أبقِ أضلاعك للأسفل ليبقى الجهد في الأرداف وليس أسفل الظهر.",
+    "ضع دمبلاً على حوضك عندما يصبح وزن الجسم سهلاً."
+   ],
+   "video": "https://www.youtube.com/watch?v=jdePJIKb-5o",
+   "link": "",
+   "images": [],
+   "rev": 1
+  },
+  {
+   "id": "donkey_kick",
+   "nameEn": "Donkey Kick",
+   "nameAr": "ركلة الحمار",
+   "emoji": "",
+   "category": "legs",
+   "type": "reps",
+   "equipment": "bodyweight",
+   "level": "beginner",
+   "muscles": [
+    "glutes"
+   ],
+   "secondary": [
+    "hamstrings",
+    "abs",
+    "lower_back"
+   ],
+   "stepsEn": [
+    "Start on all fours with hands under shoulders and knees under hips.",
+    "Brace your core and keep your back flat.",
+    "Lift one leg back and up, knee bent at 90 degrees, pressing the foot toward the ceiling.",
+    "Squeeze your glute at the top, lower with control, and repeat before switching."
+   ],
+   "stepsAr": [
+    "ابدأ على أربع واليدان تحت الكتفين والركبتان تحت الحوض.",
+    "شد عضلات البطن وأبقِ ظهرك مسطحاً.",
+    "ارفع ساقاً للخلف وللأعلى والركبة مثنية بزاوية 90 درجة مع دفع القدم نحو السقف.",
+    "اعصر الأرداف عند القمة وانزل بتحكم وكرر ثم بدّل الساق."
+   ],
+   "tipsEn": [
+    "Do not arch your lower back or twist your hips to lift higher.",
+    "Move slowly; no swinging."
+   ],
+   "tipsAr": [
+    "لا تقوّس أسفل الظهر ولا تلوِ الحوض لترفع أعلى.",
+    "تحرك ببطء ودون تأرجح."
+   ],
+   "video": "https://www.youtube.com/watch?v=SJ1Xuz9D-ZQ",
+   "link": "",
+   "images": [
+    "images/donkey_kick/0.jpg",
+    "images/donkey_kick/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "pistol_squat",
+   "nameEn": "Pistol Squat",
+   "nameAr": "سكوات بساق واحدة",
+   "emoji": "🦵",
+   "category": "legs",
+   "type": "reps",
+   "equipment": "calisthenics",
+   "level": "advanced",
+   "muscles": [
+    "quads",
+    "glutes"
+   ],
+   "secondary": [
+    "hamstrings",
+    "abs",
+    "calves"
+   ],
+   "stepsEn": [
+    "Stand on one leg with the other leg extended in front and arms reaching forward for balance.",
+    "Brace your core and sit your hips back, lowering slowly on the standing leg.",
+    "Go down as low as you can control, ideally with your hamstring touching your calf.",
+    "Drive through the whole foot to stand up. Use a pole or box if needed."
+   ],
+   "stepsAr": [
+    "قف على ساق واحدة والساق الأخرى ممدودة أمامك والذراعان للأمام للتوازن.",
+    "شد عضلات البطن وادفع الحوض للخلف وانزل ببطء على الساق الثابتة.",
+    "انزل أقصى ما تستطيع التحكم به، والأفضل حتى تلمس الفخذ الخلفية السمانة.",
+    "ادفع بكامل القدم لتقف. استعن بعمود أو صندوق عند الحاجة."
+   ],
+   "tipsEn": [
+    "Start by squatting down to a box to build strength first.",
+    "Keep your heel flat on the floor."
+   ],
+   "tipsAr": [
+    "ابدأ بالجلوس على صندوق لبناء القوة أولاً.",
+    "أبقِ كعبك ملتصقاً بالأرض."
+   ],
+   "video": "https://www.youtube.com/watch?v=nGKFTLLRdGU",
+   "link": "",
+   "images": [],
+   "rev": 1
+  },
+  {
+   "id": "plank",
+   "nameEn": "Plank",
+   "nameAr": "بلانك",
+   "emoji": "🧘",
+   "category": "abs",
+   "type": "time",
+   "equipment": "bodyweight",
+   "level": "beginner",
+   "muscles": [
+    "abs"
+   ],
+   "secondary": [
+    "front_delts",
+    "glutes",
+    "lower_back",
+    "quads"
+   ],
+   "stepsEn": [
+    "Place your forearms on the floor with elbows under your shoulders and legs extended behind you.",
+    "Rise onto your toes so your body forms a straight line from head to heels.",
+    "Squeeze your abs and glutes and hold for the prescribed time.",
+    "Breathe steadily and lower your knees to finish."
+   ],
+   "stepsAr": [
+    "ضع ساعديك على الأرض والمرفقان تحت الكتفين والساقان ممدودتان للخلف.",
+    "ارتفع على أصابع القدم ليصبح جسمك خطاً مستقيماً من الرأس إلى الكعبين.",
+    "شد البطن والأرداف وثبّت الوضعية للمدة المطلوبة.",
+    "تنفس بانتظام ثم أنزل ركبتيك لإنهاء التمرين."
+   ],
+   "tipsEn": [
+    "Do not let your hips sag or pike up.",
+    "Look at the floor to keep your neck neutral."
+   ],
+   "tipsAr": [
+    "لا تدع الحوض يهبط أو يرتفع.",
+    "انظر إلى الأرض لإبقاء الرقبة في وضع محايد."
+   ],
+   "video": "https://www.youtube.com/watch?v=BQu26ABuVS0",
+   "link": "",
+   "images": [
+    "images/plank/0.jpg",
+    "images/plank/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "side_plank",
+   "nameEn": "Side Plank",
+   "nameAr": "بلانك جانبي",
+   "emoji": "",
+   "category": "abs",
+   "type": "time",
+   "equipment": "bodyweight",
+   "level": "intermediate",
+   "muscles": [
+    "obliques",
+    "abs"
+   ],
+   "secondary": [
+    "glutes",
+    "abductors",
+    "side_delts"
+   ],
+   "stepsEn": [
+    "Lie on your side with your elbow under your shoulder and legs stacked.",
+    "Lift your hips off the floor so your body forms a straight line from head to feet.",
+    "Hold the position for the prescribed time, squeezing your core.",
+    "Lower with control and repeat on the other side."
+   ],
+   "stepsAr": [
+    "استلقِ على جانبك والمرفق تحت الكتف والساقان فوق بعضهما.",
+    "ارفع الحوض عن الأرض ليصبح جسمك خطاً مستقيماً من الرأس إلى القدمين.",
+    "ثبّت الوضعية للمدة المطلوبة مع شد عضلات الجذع.",
+    "انزل بتحكم وكرر على الجانب الآخر."
+   ],
+   "tipsEn": [
+    "Do not let your hips drop or rotate forward.",
+    "Bend your knees and rest them on the floor to make it easier."
+   ],
+   "tipsAr": [
+    "لا تدع الحوض يهبط أو يدور للأمام.",
+    "اثنِ ركبتيك وضعهما على الأرض لتسهيل التمرين."
+   ],
+   "video": "https://www.youtube.com/watch?v=rCxF2nG9vQ0",
+   "link": "",
+   "images": [
+    "images/side_plank/0.jpg",
+    "images/side_plank/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "crunch",
+   "nameEn": "Crunch",
+   "nameAr": "كرنش",
+   "emoji": "",
+   "category": "abs",
+   "type": "reps",
+   "equipment": "bodyweight",
+   "level": "beginner",
+   "muscles": [
+    "abs"
+   ],
+   "secondary": [
+    "obliques"
+   ],
+   "stepsEn": [
+    "Lie on your back with knees bent and feet flat, hands lightly behind your head or crossed on your chest.",
+    "Brace your core and exhale as you curl your shoulders off the floor.",
+    "Lift only until your upper back leaves the floor, then squeeze your abs.",
+    "Inhale and lower slowly with control."
+   ],
+   "stepsAr": [
+    "استلقِ على ظهرك والركبتان مثنيتان والقدمان مسطحتان واليدان خلف رأسك بخفة أو متقاطعتان على صدرك.",
+    "شد عضلات البطن وازفر وأنت ترفع كتفيك عن الأرض.",
+    "ارتفع فقط حتى يغادر أعلى الظهر الأرض ثم اعصر البطن.",
+    "خذ شهيقاً وانزل ببطء وتحكم."
+   ],
+   "tipsEn": [
+    "Do not pull on your neck; keep your chin off your chest.",
+    "Small controlled movement beats big swinging reps."
+   ],
+   "tipsAr": [
+    "لا تسحب رقبتك وأبقِ ذقنك بعيداً عن صدرك.",
+    "الحركة الصغيرة المتحكم بها أفضل من التأرجح."
+   ],
+   "video": "https://www.youtube.com/watch?v=M6yAoJJQvGY",
+   "link": "",
+   "images": [
+    "images/crunch/0.jpg",
+    "images/crunch/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "leg_raise",
+   "nameEn": "Hanging Leg Raise",
+   "nameAr": "رفع الأرجل",
+   "emoji": "",
+   "category": "abs",
+   "type": "reps",
+   "equipment": "calisthenics",
+   "level": "intermediate",
+   "muscles": [
+    "abs",
+    "hip_flexors"
+   ],
+   "secondary": [
+    "forearms",
+    "obliques"
+   ],
+   "stepsEn": [
+    "Hang from a pull-up bar with an overhand grip and legs straight.",
+    "Brace your core and tilt your pelvis slightly up.",
+    "Raise your straight legs in front of you until they reach hip height or higher.",
+    "Lower slowly without swinging and repeat."
+   ],
+   "stepsAr": [
+    "تعلّق بعقلة بقبضة علوية والساقان مستقيمتان.",
+    "شد عضلات البطن وأمل الحوض قليلاً للأعلى.",
+    "ارفع ساقيك المستقيمتين أمامك حتى مستوى الحوض أو أعلى.",
+    "انزل ببطء دون تأرجح وكرر."
+   ],
+   "tipsEn": [
+    "Avoid swinging; pause briefly at the bottom of each rep.",
+    "Bend your knees if straight legs are too hard."
+   ],
+   "tipsAr": [
+    "تجنب التأرجح وتوقف قليلاً في أسفل كل تكرار.",
+    "اثنِ ركبتيك إذا كانت الساقان المستقيمتان صعبة."
+   ],
+   "video": "https://www.youtube.com/watch?v=JXztA3fLp50",
+   "link": "",
+   "images": [
+    "images/leg_raise/0.jpg",
+    "images/leg_raise/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "russian",
+   "nameEn": "Russian Twist",
+   "nameAr": "التفاف روسي",
+   "emoji": "",
+   "category": "abs",
+   "type": "reps",
+   "equipment": "bodyweight",
+   "level": "intermediate",
+   "muscles": [
+    "obliques",
+    "abs"
+   ],
+   "secondary": [
+    "hip_flexors"
+   ],
+   "stepsEn": [
+    "Sit on the floor with knees bent and lean back until your torso is at about 45 degrees.",
+    "Lift your feet slightly and clasp your hands in front of your chest.",
+    "Rotate your torso to one side, then to the other, moving your shoulders and not just your arms.",
+    "Keep your back straight and your core tight throughout."
+   ],
+   "stepsAr": [
+    "اجلس على الأرض والركبتان مثنيتان وأمل جذعك للخلف بزاوية 45 درجة تقريباً.",
+    "ارفع قدميك قليلاً وشبّك يديك أمام صدرك.",
+    "لف جذعك إلى جانب ثم إلى الجانب الآخر مع تحريك الكتفين وليس الذراعين فقط.",
+    "أبقِ ظهرك مستقيماً وبطنك مشدوداً طوال الوقت."
+   ],
+   "tipsEn": [
+    "Keep your feet on the floor if lifting them is too hard.",
+    "Do not round your back."
+   ],
+   "tipsAr": [
+    "أبقِ قدميك على الأرض إذا كان رفعهما صعباً.",
+    "لا تقوّس ظهرك."
+   ],
+   "video": "https://www.youtube.com/watch?v=jjyR6Z1U4dA",
+   "link": "",
+   "images": [
+    "images/russian/0.jpg",
+    "images/russian/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "mountain",
+   "nameEn": "Mountain Climber",
+   "nameAr": "متسلق الجبال",
+   "emoji": "⛰️",
+   "category": "abs",
+   "type": "time",
+   "equipment": "bodyweight",
+   "level": "beginner",
+   "muscles": [
+    "abs",
+    "hip_flexors"
+   ],
+   "secondary": [
+    "front_delts",
+    "quads",
+    "triceps",
+    "chest"
+   ],
+   "stepsEn": [
+    "Start in a high plank with hands under your shoulders and body in a straight line.",
+    "Drive one knee toward your chest.",
+    "Quickly switch legs, as if running in place on the floor.",
+    "Keep going at a steady pace for the prescribed time without bouncing your hips."
+   ],
+   "stepsAr": [
+    "ابدأ في وضع البلانك العالي واليدان تحت الكتفين والجسم خط مستقيم.",
+    "اسحب ركبة واحدة نحو صدرك.",
+    "بدّل الساقين بسرعة كأنك تجري في مكانك على الأرض.",
+    "استمر بإيقاع ثابت للمدة المطلوبة دون ارتداد الحوض."
+   ],
+   "tipsEn": [
+    "Keep your hips low and level with your shoulders.",
+    "Slow down if your form breaks."
+   ],
+   "tipsAr": [
+    "أبقِ الحوض منخفضاً وبمستوى الكتفين.",
+    "خفف السرعة إذا اختل شكل الجسم."
+   ],
+   "video": "https://www.youtube.com/watch?v=gW-q50V6Z_0",
+   "link": "",
+   "images": [
+    "images/mountain/0.jpg",
+    "images/mountain/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "hollow",
+   "nameEn": "Hollow Body Hold",
+   "nameAr": "هولو هولد",
+   "emoji": "",
+   "category": "abs",
+   "type": "time",
+   "equipment": "calisthenics",
+   "level": "intermediate",
+   "muscles": [
+    "abs"
+   ],
+   "secondary": [
+    "hip_flexors",
+    "quads"
+   ],
+   "stepsEn": [
+    "Lie on your back with arms extended overhead and legs straight.",
+    "Press your lower back into the floor and brace your abs.",
+    "Lift your shoulders, arms and legs a few inches off the floor to form a shallow banana shape.",
+    "Hold for the prescribed time while breathing steadily."
+   ],
+   "stepsAr": [
+    "استلقِ على ظهرك والذراعان ممدودتان فوق رأسك والساقان مستقيمتان.",
+    "اضغط أسفل ظهرك على الأرض وشد البطن.",
+    "ارفع الكتفين والذراعين والساقين بضع سنتيمترات عن الأرض لتشكل جسمك قوساً خفيفاً.",
+    "ثبّت الوضعية للمدة المطلوبة مع تنفس منتظم."
+   ],
+   "tipsEn": [
+    "If your lower back lifts, bend your knees or raise your legs higher.",
+    "Keep your chin slightly tucked."
+   ],
+   "tipsAr": [
+    "إذا ارتفع أسفل ظهرك فاثنِ ركبتيك أو ارفع ساقيك أعلى.",
+    "أبقِ ذقنك مثنياً قليلاً."
+   ],
+   "video": "https://www.youtube.com/watch?v=0yPin8hSc8o",
+   "link": "",
+   "images": [],
+   "rev": 1
+  },
+  {
+   "id": "sit_up",
+   "nameEn": "Sit-Up",
+   "nameAr": "بطن جلوس",
+   "emoji": "",
+   "category": "abs",
+   "type": "reps",
+   "equipment": "bodyweight",
+   "level": "beginner",
+   "muscles": [
+    "abs"
+   ],
+   "secondary": [
+    "hip_flexors",
+    "obliques"
+   ],
+   "stepsEn": [
+    "Lie on your back with knees bent and feet flat, arms crossed over your chest.",
+    "Brace your core and exhale as you curl up, lifting your whole torso.",
+    "Come up until your chest nears your thighs.",
+    "Inhale and lower back down slowly."
+   ],
+   "stepsAr": [
+    "استلقِ على ظهرك والركبتان مثنيتان والقدمان مسطحتان والذراعان متقاطعتان على صدرك.",
+    "شد عضلات البطن وازفر وأنت ترفع كامل جذعك.",
+    "اصعد حتى يقترب صدرك من فخذيك.",
+    "خذ شهيقاً وانزل ببطء."
+   ],
+   "tipsEn": [
+    "Do not yank your neck forward with your hands.",
+    "Anchor your feet under a sofa if they lift off the floor."
+   ],
+   "tipsAr": [
+    "لا تسحب رقبتك بيديك للأمام.",
+    "ثبّت قدميك تحت أريكة إذا كانتا ترتفعان عن الأرض."
+   ],
+   "video": "https://www.youtube.com/watch?v=zoL7eingzkQ",
+   "link": "",
+   "images": [
+    "images/sit_up/0.jpg",
+    "images/sit_up/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "bicycle_crunch",
+   "nameEn": "Bicycle Crunch",
+   "nameAr": "كرنش الدراجة",
+   "emoji": "",
+   "category": "abs",
+   "type": "reps",
+   "equipment": "bodyweight",
+   "level": "beginner",
+   "muscles": [
+    "abs",
+    "obliques"
+   ],
+   "secondary": [
+    "hip_flexors"
+   ],
+   "stepsEn": [
+    "Lie on your back with hands lightly behind your head and legs lifted with knees bent.",
+    "Curl your shoulders off the floor and brace your core.",
+    "Bring one elbow toward the opposite knee while extending the other leg.",
+    "Switch sides in a smooth pedaling motion."
+   ],
+   "stepsAr": [
+    "استلقِ على ظهرك ويداك خلف رأسك بخفة والساقان مرفوعتان والركبتان مثنيتان.",
+    "ارفع كتفيك عن الأرض وشد البطن.",
+    "قرّب مرفقاً من الركبة المعاكسة مع مد الساق الأخرى.",
+    "بدّل الجانبين بحركة سلسة كأنك تقود دراجة."
+   ],
+   "tipsEn": [
+    "Rotate through your torso, not just your elbows.",
+    "Move slowly; do not pull on your neck."
+   ],
+   "tipsAr": [
+    "دوّر من الجذع وليس من المرفقين فقط.",
+    "تحرك ببطء ولا تسحب رقبتك."
+   ],
+   "video": "https://www.youtube.com/watch?v=kDPxFoCmb-w",
+   "link": "",
+   "images": [],
+   "rev": 1
+  },
+  {
+   "id": "reverse_crunch",
+   "nameEn": "Reverse Crunch",
+   "nameAr": "كرنش عكسي",
+   "emoji": "",
+   "category": "abs",
+   "type": "reps",
+   "equipment": "bodyweight",
+   "level": "beginner",
+   "muscles": [
+    "abs"
+   ],
+   "secondary": [
+    "hip_flexors",
+    "obliques"
+   ],
+   "stepsEn": [
+    "Lie on your back with arms at your sides and knees bent at 90 degrees above your hips.",
+    "Brace your core and press your lower back into the floor.",
+    "Curl your hips up off the floor, bringing your knees toward your chest.",
+    "Lower slowly until your feet nearly touch the floor."
+   ],
+   "stepsAr": [
+    "استلقِ على ظهرك والذراعان بجانبك والركبتان مثنيتان بزاوية 90 درجة فوق الحوض.",
+    "شد البطن واضغط أسفل ظهرك على الأرض.",
+    "ارفع الحوض عن الأرض مقرباً ركبتيك من صدرك.",
+    "انزل ببطء حتى تكاد قدماك تلمسان الأرض."
+   ],
+   "tipsEn": [
+    "Use your abs, not momentum, to lift your hips.",
+    "Do not let your legs drop quickly."
+   ],
+   "tipsAr": [
+    "استخدم البطن وليس الزخم لرفع الحوض.",
+    "لا تدع ساقيك تسقطان بسرعة."
+   ],
+   "video": "https://www.youtube.com/watch?v=nYcE7-Dhpzk",
+   "link": "",
+   "images": [
+    "images/reverse_crunch/0.jpg",
+    "images/reverse_crunch/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "flutter_kicks",
+   "nameEn": "Flutter Kicks",
+   "nameAr": "ركلات رفرفة",
+   "emoji": "",
+   "category": "abs",
+   "type": "time",
+   "equipment": "bodyweight",
+   "level": "beginner",
+   "muscles": [
+    "abs",
+    "hip_flexors"
+   ],
+   "secondary": [
+    "quads",
+    "glutes"
+   ],
+   "stepsEn": [
+    "Lie on your back with hands under your hips and legs straight.",
+    "Press your lower back into the floor and lift your legs a few inches.",
+    "Kick your legs up and down in small alternating movements.",
+    "Keep going for the prescribed time while breathing steadily."
+   ],
+   "stepsAr": [
+    "استلقِ على ظهرك واليدان تحت الحوض والساقان مستقيمتان.",
+    "اضغط أسفل ظهرك على الأرض وارفع ساقيك بضع سنتيمترات.",
+    "حرّك ساقيك لأعلى ولأسفل بحركات صغيرة متبادلة.",
+    "استمر للمدة المطلوبة مع تنفس منتظم."
+   ],
+   "tipsEn": [
+    "If your lower back arches, raise your legs higher.",
+    "Keep your legs straight and your movements small."
+   ],
+   "tipsAr": [
+    "إذا تقوس أسفل ظهرك فارفع ساقيك أعلى.",
+    "أبقِ ساقيك مستقيمتين وحركتك صغيرة."
+   ],
+   "video": "https://www.youtube.com/watch?v=6D23AyECRGQ",
+   "link": "",
+   "images": [
+    "images/flutter_kicks/0.jpg",
+    "images/flutter_kicks/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "dead_bug",
+   "nameEn": "Dead Bug",
+   "nameAr": "الحشرة الميتة",
+   "emoji": "",
+   "category": "abs",
+   "type": "reps",
+   "equipment": "bodyweight",
+   "level": "beginner",
+   "muscles": [
+    "abs"
+   ],
+   "secondary": [
+    "hip_flexors",
+    "obliques",
+    "lower_back"
+   ],
+   "stepsEn": [
+    "Lie on your back with arms reaching to the ceiling and knees bent at 90 degrees above your hips.",
+    "Press your lower back into the floor and brace your core.",
+    "Slowly lower your right arm overhead and extend your left leg out.",
+    "Return to the start and repeat on the opposite side."
+   ],
+   "stepsAr": [
+    "استلقِ على ظهرك والذراعان ممدودتان نحو السقف والركبتان مثنيتان بزاوية 90 درجة فوق الحوض.",
+    "اضغط أسفل ظهرك على الأرض وشد البطن.",
+    "أنزل ذراعك اليمنى فوق رأسك ببطء ومد ساقك اليسرى للأمام.",
+    "عد لوضع البداية وكرر على الجانب المعاكس."
+   ],
+   "tipsEn": [
+    "Keep your lower back flat on the floor the whole time.",
+    "Move slowly and breathe out as you extend."
+   ],
+   "tipsAr": [
+    "أبقِ أسفل ظهرك ملتصقاً بالأرض طوال الوقت.",
+    "تحرك ببطء وازفر أثناء المد."
+   ],
+   "video": "https://www.youtube.com/watch?v=bxn9FBrt4-A",
+   "link": "",
+   "images": [
+    "images/dead_bug/0.jpg",
+    "images/dead_bug/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "v_up",
+   "nameEn": "V-Up",
+   "nameAr": "رفعة حرف في",
+   "emoji": "",
+   "category": "abs",
+   "type": "reps",
+   "equipment": "bodyweight",
+   "level": "intermediate",
+   "muscles": [
+    "abs"
+   ],
+   "secondary": [
+    "hip_flexors",
+    "quads"
+   ],
+   "stepsEn": [
+    "Lie flat on your back with arms extended overhead and legs straight.",
+    "Brace your core and exhale as you lift your legs and torso together.",
+    "Reach your hands toward your toes, forming a V shape with your body.",
+    "Lower both back down slowly without letting them crash to the floor."
+   ],
+   "stepsAr": [
+    "استلقِ على ظهرك والذراعان ممدودتان فوق رأسك والساقان مستقيمتان.",
+    "شد البطن وازفر وأنت ترفع ساقيك وجذعك معاً.",
+    "مد يديك نحو أصابع قدميك ليشكل جسمك حرف V.",
+    "انزل ببطء دون أن تسقط على الأرض."
+   ],
+   "tipsEn": [
+    "Bend your knees slightly if straight legs are too hard.",
+    "Avoid using momentum to jerk upward."
+   ],
+   "tipsAr": [
+    "اثنِ ركبتيك قليلاً إذا كانت الساقان المستقيمتان صعبة.",
+    "تجنب استخدام الزخم للاندفاع للأعلى."
+   ],
+   "video": "https://www.youtube.com/watch?v=iP2fjvG0g3w",
+   "link": "",
+   "images": [
+    "images/v_up/0.jpg",
+    "images/v_up/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "heel_touch",
+   "nameEn": "Heel Touch",
+   "nameAr": "لمس الكعب",
+   "emoji": "",
+   "category": "abs",
+   "type": "reps",
+   "equipment": "bodyweight",
+   "level": "beginner",
+   "muscles": [
+    "obliques",
+    "abs"
+   ],
+   "secondary": [],
+   "stepsEn": [
+    "Lie on your back with knees bent and feet flat, arms at your sides.",
+    "Lift your shoulders slightly off the floor and brace your core.",
+    "Reach your right hand toward your right heel by bending your torso sideways.",
+    "Return to center and reach toward the left heel, alternating sides."
+   ],
+   "stepsAr": [
+    "استلقِ على ظهرك والركبتان مثنيتان والقدمان مسطحتان والذراعان بجانبك.",
+    "ارفع كتفيك قليلاً عن الأرض وشد البطن.",
+    "مد يدك اليمنى نحو كعبك الأيمن بثني جذعك للجانب.",
+    "عد للمنتصف ثم مد نحو الكعب الأيسر وبدّل الجانبين."
+   ],
+   "tipsEn": [
+    "Keep your shoulders off the floor throughout.",
+    "Bend sideways; do not twist or pull your neck."
+   ],
+   "tipsAr": [
+    "أبقِ كتفيك مرفوعتين عن الأرض طوال الوقت.",
+    "اثنِ للجانب ولا تلف أو تسحب رقبتك."
+   ],
+   "video": "https://www.youtube.com/watch?v=RzaD0I3yeKY",
+   "link": "",
+   "images": [
+    "images/heel_touch/0.jpg",
+    "images/heel_touch/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "hanging_knee_raise",
+   "nameEn": "Hanging Knee Raise",
+   "nameAr": "رفع الركبتين معلقاً",
+   "emoji": "",
+   "category": "abs",
+   "type": "reps",
+   "equipment": "calisthenics",
+   "level": "intermediate",
+   "muscles": [
+    "abs",
+    "hip_flexors"
+   ],
+   "secondary": [
+    "forearms",
+    "obliques"
+   ],
+   "stepsEn": [
+    "Hang from a pull-up bar with an overhand grip and legs together.",
+    "Brace your core and avoid swinging.",
+    "Raise your knees toward your chest by curling your pelvis up.",
+    "Lower slowly back to the starting position."
+   ],
+   "stepsAr": [
+    "تعلّق بعقلة بقبضة علوية والساقان معاً.",
+    "شد البطن وتجنب التأرجح.",
+    "ارفع ركبتيك نحو صدرك مع لف الحوض للأعلى.",
+    "انزل ببطء إلى وضع البداية."
+   ],
+   "tipsEn": [
+    "Curl your pelvis up instead of just lifting your thighs.",
+    "Control the lowering; do not drop."
+   ],
+   "tipsAr": [
+    "لف الحوض للأعلى ولا ترفع الفخذين فقط.",
+    "تحكم في النزول ولا تسقط."
+   ],
+   "video": "https://www.youtube.com/watch?v=0BmrlKCfTPU",
+   "link": "",
+   "images": [],
+   "rev": 1
+  },
+  {
+   "id": "jumping_jacks",
+   "nameEn": "Jumping Jacks",
+   "nameAr": "قفز النجمة",
+   "emoji": "🤸",
+   "category": "cardio",
+   "type": "time",
+   "equipment": "bodyweight",
+   "level": "beginner",
+   "muscles": [
+    "full_body"
+   ],
+   "secondary": [
+    "calves",
+    "side_delts",
+    "glutes"
+   ],
+   "stepsEn": [
+    "Stand tall with feet together and arms at your sides.",
+    "Jump your feet out wider than shoulders while swinging your arms overhead.",
+    "Jump back to the start, lowering your arms to your sides.",
+    "Keep a steady rhythm for the set time, breathing evenly."
+   ],
+   "stepsAr": [
+    "قف معتدلاً وقدماك متلاصقتان وذراعاك بجانب جسمك.",
+    "اقفز بقدميك للخارج أوسع من الكتفين مع رفع ذراعيك فوق رأسك.",
+    "اقفز عائداً لوضع البداية وأنزل ذراعيك لجانبك.",
+    "حافظ على إيقاع ثابت طوال الوقت وتنفس بانتظام."
+   ],
+   "tipsEn": [
+    "Land softly on the balls of your feet.",
+    "Keep your core tight and shoulders relaxed."
+   ],
+   "tipsAr": [
+    "اهبط بخفة على مقدمة القدمين.",
+    "شد عضلات البطن وأرخِ الكتفين."
+   ],
+   "video": "https://www.youtube.com/watch?v=nGaXj3kkmrU",
+   "link": "",
+   "images": [],
+   "rev": 1
+  },
+  {
+   "id": "jump_rope",
+   "nameEn": "Jump Rope",
+   "nameAr": "نط الحبل",
+   "emoji": "",
+   "category": "cardio",
+   "type": "time",
+   "equipment": "bodyweight",
+   "level": "beginner",
+   "muscles": [
+    "calves",
+    "full_body"
+   ],
+   "secondary": [
+    "quads",
+    "forearms",
+    "front_delts"
+   ],
+   "stepsEn": [
+    "Hold the handles at hip height with elbows close to your ribs.",
+    "Swing the rope over your head using your wrists, not your whole arms.",
+    "Hop over the rope with small jumps, just a couple of centimeters high.",
+    "Land softly on the balls of your feet and keep a steady pace."
+   ],
+   "stepsAr": [
+    "أمسك المقبضين عند مستوى الورك وأبقِ مرفقيك قريبين من جسمك.",
+    "حرك الحبل فوق رأسك بالرسغين وليس بالذراعين كاملة.",
+    "اقفز فوق الحبل بقفزات صغيرة لا ترتفع إلا بضعة سنتيمترات.",
+    "اهبط على مقدمة القدمين بخفة وحافظ على إيقاع ثابت."
+   ],
+   "tipsEn": [
+    "Look forward, not at your feet.",
+    "Keep jumps low to save energy and protect your joints."
+   ],
+   "tipsAr": [
+    "انظر للأمام وليس لقدميك.",
+    "أبقِ القفزات منخفضة لتوفير الطاقة وحماية المفاصل."
+   ],
+   "video": "https://www.youtube.com/watch?v=_UTR1VWg8WY",
+   "link": "",
+   "images": [
+    "images/jump_rope/0.jpg",
+    "images/jump_rope/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "high_knees",
+   "nameEn": "High Knees",
+   "nameAr": "ركض برفع الركبة",
+   "emoji": "🏃",
+   "category": "cardio",
+   "type": "time",
+   "equipment": "bodyweight",
+   "level": "beginner",
+   "muscles": [
+    "quads",
+    "hip_flexors"
+   ],
+   "secondary": [
+    "calves",
+    "abs",
+    "glutes"
+   ],
+   "stepsEn": [
+    "Stand tall with feet hip-width apart and core braced.",
+    "Run in place, driving one knee up to hip height.",
+    "Switch quickly to the other knee, pumping your arms in opposition.",
+    "Stay on the balls of your feet and keep a fast pace for the set time."
+   ],
+   "stepsAr": [
+    "قف معتدلاً وقدماك بعرض الورك مع شد البطن.",
+    "اركض في المكان وارفع ركبة واحدة حتى مستوى الورك.",
+    "بدّل بسرعة للركبة الأخرى مع تحريك الذراعين بشكل متعاكس.",
+    "ابقَ على مقدمة القدمين وحافظ على سرعة عالية طوال الوقت."
+   ],
+   "tipsEn": [
+    "Keep your torso upright; do not lean back.",
+    "Land lightly to reduce impact on knees."
+   ],
+   "tipsAr": [
+    "أبقِ جذعك مستقيماً ولا تميل للخلف.",
+    "اهبط بخفة لتقليل الضغط على الركبتين."
+   ],
+   "video": "https://www.youtube.com/watch?v=WofWmk-4qU4",
+   "link": "",
+   "images": [],
+   "rev": 1
+  },
+  {
+   "id": "burpee",
+   "nameEn": "Burpee",
+   "nameAr": "بيربي",
+   "emoji": "",
+   "category": "cardio",
+   "type": "reps",
+   "equipment": "bodyweight",
+   "level": "intermediate",
+   "muscles": [
+    "full_body"
+   ],
+   "secondary": [
+    "chest",
+    "quads",
+    "abs",
+    "triceps"
+   ],
+   "stepsEn": [
+    "Stand with feet shoulder-width apart, then squat and place your hands on the floor.",
+    "Jump or step your feet back into a plank position.",
+    "Lower your chest to the floor, then push back up (optional for beginners).",
+    "Jump or step your feet back to your hands and explode up with arms overhead."
+   ],
+   "stepsAr": [
+    "قف وقدماك بعرض الكتفين، ثم انزل بوضع السكوات وضع يديك على الأرض.",
+    "اقفز أو ارجع بقدميك للخلف إلى وضع البلانك.",
+    "انزل بصدرك نحو الأرض ثم ادفع لأعلى (اختياري للمبتدئين).",
+    "اقفز أو أرجع قدميك نحو يديك ثم اقفز لأعلى مع رفع الذراعين فوق الرأس."
+   ],
+   "tipsEn": [
+    "Keep your core tight so your hips do not sag in the plank.",
+    "Step instead of jumping if you are a beginner."
+   ],
+   "tipsAr": [
+    "شد البطن حتى لا يهبط الحوض في وضع البلانك.",
+    "إذا كنت مبتدئاً فاستبدل القفز بالخطوة."
+   ],
+   "video": "https://www.youtube.com/watch?v=G2hv_NYhM-A",
+   "link": "",
+   "images": [],
+   "rev": 1
+  },
+  {
+   "id": "butt_kicks",
+   "nameEn": "Butt Kicks",
+   "nameAr": "ركل المؤخرة",
+   "emoji": "🏃",
+   "category": "cardio",
+   "type": "time",
+   "equipment": "bodyweight",
+   "level": "beginner",
+   "muscles": [
+    "hamstrings"
+   ],
+   "secondary": [
+    "calves",
+    "quads",
+    "glutes"
+   ],
+   "stepsEn": [
+    "Stand tall with feet hip-width apart and arms bent at your sides.",
+    "Jog in place, kicking one heel up toward your glute.",
+    "Alternate legs quickly, swinging your arms naturally.",
+    "Keep your knees pointing down and maintain a quick rhythm."
+   ],
+   "stepsAr": [
+    "قف معتدلاً وقدماك بعرض الورك وذراعاك مثنيتان بجانبك.",
+    "اركض في المكان مع رفع كعب واحد نحو المؤخرة.",
+    "بدّل الساقين بسرعة مع تحريك الذراعين بشكل طبيعي.",
+    "أبقِ ركبتيك متجهتين للأسفل وحافظ على إيقاع سريع."
+   ],
+   "tipsEn": [
+    "Do not lean forward; stay tall.",
+    "Stay light on the balls of your feet."
+   ],
+   "tipsAr": [
+    "لا تنحنِ للأمام وابقَ معتدلاً.",
+    "ابقَ خفيفاً على مقدمة القدمين."
+   ],
+   "video": "https://www.youtube.com/watch?v=RLYR3wodvhQ",
+   "link": "",
+   "images": [],
+   "rev": 1
+  },
+  {
+   "id": "skaters",
+   "nameEn": "Skater Jumps",
+   "nameAr": "قفز المتزلج",
+   "emoji": "",
+   "category": "cardio",
+   "type": "time",
+   "equipment": "bodyweight",
+   "level": "intermediate",
+   "muscles": [
+    "glutes",
+    "quads"
+   ],
+   "secondary": [
+    "abductors",
+    "calves",
+    "hamstrings"
+   ],
+   "stepsEn": [
+    "Stand on one leg with a slight knee bend and your torso leaning forward.",
+    "Leap sideways to the other leg, landing softly on the outside foot.",
+    "Swing your trailing leg behind you and sweep your arms across your body.",
+    "Leap back and forth in a smooth rhythm for the set time."
+   ],
+   "stepsAr": [
+    "قف على ساق واحدة مع ثني خفيف للركبة وميل بسيط بالجذع للأمام.",
+    "اقفز جانباً إلى الساق الأخرى واهبط بخفة على القدم الخارجية.",
+    "مرر الساق الخلفية خلف جسمك وحرك ذراعيك عبر الجسم.",
+    "اقفز ذهاباً وإياباً بإيقاع سلس طوال الوقت."
+   ],
+   "tipsEn": [
+    "Keep the landing knee soft and in line with your toes.",
+    "Make smaller hops if you lose balance."
+   ],
+   "tipsAr": [
+    "أبقِ ركبة الهبوط مرنة وباتجاه أصابع القدم.",
+    "قلل مسافة القفز إذا فقدت توازنك."
+   ],
+   "video": "https://www.youtube.com/watch?v=JQUqVHxbYEw",
+   "link": "",
+   "images": [],
+   "rev": 1
+  },
+  {
+   "id": "bear_crawl",
+   "nameEn": "Bear Crawl",
+   "nameAr": "مشي الدب",
+   "emoji": "",
+   "category": "cardio",
+   "type": "time",
+   "equipment": "bodyweight",
+   "level": "intermediate",
+   "muscles": [
+    "full_body"
+   ],
+   "secondary": [
+    "abs",
+    "front_delts",
+    "quads",
+    "triceps"
+   ],
+   "stepsEn": [
+    "Start on hands and knees, then lift your knees about 5 cm off the floor.",
+    "Keep your back flat and hips level with your shoulders.",
+    "Move the opposite hand and foot forward together in small steps.",
+    "Crawl forward and back for the set time, breathing steadily."
+   ],
+   "stepsAr": [
+    "ابدأ على يديك وركبتيك ثم ارفع ركبتيك نحو 5 سم عن الأرض.",
+    "أبقِ ظهرك مسطحاً والحوض بمستوى الكتفين.",
+    "حرك اليد والقدم المتقابلتين للأمام معاً بخطوات صغيرة.",
+    "ازحف للأمام والخلف طوال الوقت مع تنفس منتظم."
+   ],
+   "tipsEn": [
+    "Do not let your hips rise or sway side to side.",
+    "Take small steps and keep your core braced."
+   ],
+   "tipsAr": [
+    "لا تدع الحوض يرتفع أو يتمايل جانباً.",
+    "خذ خطوات صغيرة وأبقِ البطن مشدوداً."
+   ],
+   "video": "https://www.youtube.com/watch?v=Gb2e9edK8a4",
+   "link": "",
+   "images": [],
+   "rev": 1
+  },
+  {
+   "id": "shadow_boxing",
+   "nameEn": "Shadow Boxing",
+   "nameAr": "ملاكمة الظل",
+   "emoji": "🥊",
+   "category": "cardio",
+   "type": "time",
+   "equipment": "bodyweight",
+   "level": "beginner",
+   "muscles": [
+    "full_body"
+   ],
+   "secondary": [
+    "front_delts",
+    "triceps",
+    "abs",
+    "obliques"
+   ],
+   "stepsEn": [
+    "Stand in a boxing stance: feet shoulder-width, knees soft, fists up by your chin.",
+    "Throw straight jabs and crosses, rotating your hips and rear foot.",
+    "Mix in hooks and light footwork, moving around the room.",
+    "Keep your hands returning to guard and stay relaxed for the set time."
+   ],
+   "stepsAr": [
+    "قف بوضعية الملاكمة: القدمان بعرض الكتفين والركبتان مرنتان والقبضتان قرب الذقن.",
+    "وجّه لكمات أمامية مستقيمة مع لف الحوض والقدم الخلفية.",
+    "أضف لكمات جانبية وحركة قدمين خفيفة حول المكان.",
+    "أعد يديك دائماً لوضع الحماية وابقَ مسترخياً طوال الوقت."
+   ],
+   "tipsEn": [
+    "Do not lock your elbows at full extension.",
+    "Breathe out sharply with each punch."
+   ],
+   "tipsAr": [
+    "لا تقفل مرفقيك عند مد الذراع بالكامل.",
+    "ازفر بقوة مع كل لكمة."
+   ],
+   "video": "https://www.youtube.com/watch?v=Q5WrJoYhpHE",
+   "link": "",
+   "images": [],
+   "rev": 1
+  },
+  {
+   "id": "wu_jog",
+   "nameEn": "Jog in Place",
+   "nameAr": "ركض في المكان",
+   "emoji": "🏃",
+   "category": "warmup",
+   "type": "time",
+   "equipment": "bodyweight",
+   "level": "beginner",
+   "muscles": [
+    "quads",
+    "calves"
+   ],
+   "secondary": [
+    "hamstrings",
+    "glutes"
+   ],
+   "stepsEn": [
+    "Stand tall with feet hip-width apart and arms bent at 90 degrees.",
+    "Start jogging in place with light, quick steps.",
+    "Swing your arms naturally and stay on the balls of your feet.",
+    "Keep an easy pace for the set time until you feel warm."
+   ],
+   "stepsAr": [
+    "قف معتدلاً وقدماك بعرض الورك وذراعاك مثنيتان بزاوية 90 درجة.",
+    "ابدأ بالركض في المكان بخطوات خفيفة وسريعة.",
+    "حرك ذراعيك بشكل طبيعي وابقَ على مقدمة القدمين.",
+    "حافظ على وتيرة مريحة طوال الوقت حتى يسخن جسمك."
+   ],
+   "tipsEn": [
+    "Keep the pace easy; this is a warm-up.",
+    "Stay relaxed in the shoulders and jaw."
+   ],
+   "tipsAr": [
+    "اجعل الوتيرة هادئة فهذا إحماء.",
+    "أرخِ الكتفين والفك."
+   ],
+   "video": "https://www.youtube.com/watch?v=xmkYBO85leM",
+   "link": "",
+   "images": [],
+   "rev": 1
+  },
+  {
+   "id": "wu_arm",
+   "nameEn": "Arm Circles",
+   "nameAr": "دوران الذراعين",
+   "emoji": "",
+   "category": "warmup",
+   "type": "time",
+   "equipment": "bodyweight",
+   "level": "beginner",
+   "muscles": [
+    "side_delts",
+    "front_delts"
+   ],
+   "secondary": [
+    "rear_delts",
+    "traps"
+   ],
+   "stepsEn": [
+    "Stand tall and raise both arms out to the sides at shoulder height.",
+    "Make small circles forward, gradually making them bigger.",
+    "After half the time, reverse the direction.",
+    "Keep your shoulders down and core braced throughout."
+   ],
+   "stepsAr": [
+    "قف معتدلاً وارفع ذراعيك للجانبين بمستوى الكتفين.",
+    "ارسم دوائر صغيرة للأمام ثم كبّرها تدريجياً.",
+    "بعد نصف الوقت اعكس اتجاه الدوران.",
+    "أبقِ كتفيك للأسفل وبطنك مشدوداً طوال الوقت."
+   ],
+   "tipsEn": [
+    "Do not shrug your shoulders toward your ears.",
+    "Keep your arms straight and level."
+   ],
+   "tipsAr": [
+    "لا ترفع كتفيك نحو أذنيك.",
+    "أبقِ ذراعيك مستقيمتين وفي مستوى واحد."
+   ],
+   "video": "https://www.youtube.com/watch?v=tYo5ghpLksg",
+   "link": "",
+   "images": [
+    "images/wu_arm/0.jpg",
+    "images/wu_arm/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "wu_hip",
+   "nameEn": "Hip Circles",
+   "nameAr": "دوران الحوض",
+   "emoji": "",
+   "category": "warmup",
+   "type": "time",
+   "equipment": "bodyweight",
+   "level": "beginner",
+   "muscles": [
+    "glutes",
+    "hip_flexors"
+   ],
+   "secondary": [
+    "obliques",
+    "abductors"
+   ],
+   "stepsEn": [
+    "Stand with feet shoulder-width apart and hands on your hips.",
+    "Slowly rotate your hips in a large circle.",
+    "Keep your upper body still and knees soft.",
+    "Switch direction halfway through the time."
+   ],
+   "stepsAr": [
+    "قف وقدماك بعرض الكتفين ويداك على وركيك.",
+    "أدر حوضك ببطء في دائرة كبيرة.",
+    "أبقِ الجزء العلوي ثابتاً والركبتين مرنتين.",
+    "غيّر الاتجاه في منتصف الوقت."
+   ],
+   "tipsEn": [
+    "Move slowly and make the circles as wide as comfortable.",
+    "Keep your feet flat on the floor."
+   ],
+   "tipsAr": [
+    "تحرك ببطء واجعل الدوائر واسعة بقدر ما يريحك.",
+    "أبقِ قدميك ثابتتين على الأرض."
+   ],
+   "video": "https://www.youtube.com/watch?v=yFi1FDOFXq0",
+   "link": "",
+   "images": [
+    "images/wu_hip/0.jpg",
+    "images/wu_hip/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "wu_neck",
+   "nameEn": "Neck Rolls",
+   "nameAr": "دوران الرقبة",
+   "emoji": "",
+   "category": "warmup",
+   "type": "time",
+   "equipment": "bodyweight",
+   "level": "beginner",
+   "muscles": [
+    "neck"
+   ],
+   "secondary": [
+    "traps"
+   ],
+   "stepsEn": [
+    "Stand or sit tall with shoulders relaxed.",
+    "Slowly drop your chin toward your chest.",
+    "Gently roll your ear toward one shoulder, then back to center, then the other side.",
+    "Repeat slowly for the set time; never roll your head backward fully."
+   ],
+   "stepsAr": [
+    "قف أو اجلس معتدلاً مع إرخاء الكتفين.",
+    "أنزل ذقنك ببطء نحو صدرك.",
+    "حرك أذنك برفق نحو كتف واحد ثم عد للمنتصف ثم للكتف الآخر.",
+    "كرر ببطء طوال الوقت ولا تُدر رأسك للخلف بالكامل."
+   ],
+   "tipsEn": [
+    "Move slowly and gently; stop if you feel pain or dizziness.",
+    "Keep your shoulders down and relaxed."
+   ],
+   "tipsAr": [
+    "تحرك ببطء ولطف وتوقف إذا شعرت بألم أو دوخة.",
+    "أبقِ كتفيك للأسفل ومسترخيين."
+   ],
+   "video": "https://www.youtube.com/watch?v=gBwGyIp5vdM",
+   "link": "",
+   "images": [],
+   "rev": 1
+  },
+  {
+   "id": "wu_leg_swing",
+   "nameEn": "Leg Swings",
+   "nameAr": "أرجحة الساق",
+   "emoji": "🦵",
+   "category": "warmup",
+   "type": "time",
+   "equipment": "bodyweight",
+   "level": "beginner",
+   "muscles": [
+    "hamstrings",
+    "hip_flexors"
+   ],
+   "secondary": [
+    "glutes",
+    "adductors",
+    "abductors"
+   ],
+   "stepsEn": [
+    "Stand next to a wall or chair and hold it for balance.",
+    "Swing one leg forward and backward in a controlled arc.",
+    "After half the time, face the wall and swing the leg side to side.",
+    "Switch legs and repeat, gradually increasing the range."
+   ],
+   "stepsAr": [
+    "قف بجانب جدار أو كرسي وأمسك به للتوازن.",
+    "أرجح ساقاً واحدة للأمام والخلف بحركة متحكم بها.",
+    "بعد نصف الوقت واجه الجدار وأرجح الساق يميناً ويساراً.",
+    "بدّل الساق وكرر مع زيادة المدى تدريجياً."
+   ],
+   "tipsEn": [
+    "Keep your torso upright and avoid arching your back.",
+    "Start small and widen the swing only as it feels comfortable."
+   ],
+   "tipsAr": [
+    "أبقِ جذعك مستقيماً ولا تقوس ظهرك.",
+    "ابدأ بمدى صغير وزده تدريجياً بما يريحك."
+   ],
+   "video": "https://www.youtube.com/watch?v=difYoBtZi2s",
+   "link": "",
+   "images": [],
+   "rev": 1
+  },
+  {
+   "id": "wu_torso_twist",
+   "nameEn": "Standing Torso Twist",
+   "nameAr": "لف الجذع",
+   "emoji": "",
+   "category": "warmup",
+   "type": "time",
+   "equipment": "bodyweight",
+   "level": "beginner",
+   "muscles": [
+    "obliques"
+   ],
+   "secondary": [
+    "abs",
+    "lower_back"
+   ],
+   "stepsEn": [
+    "Stand with feet shoulder-width apart and knees slightly bent.",
+    "Hold your arms bent at chest height or let them swing loosely.",
+    "Rotate your torso to one side, then smoothly to the other.",
+    "Keep your hips facing forward and repeat for the set time."
+   ],
+   "stepsAr": [
+    "قف وقدماك بعرض الكتفين وركبتاك مثنيتان قليلاً.",
+    "اثنِ ذراعيك عند مستوى الصدر أو دعهما تتأرجحان بحرية.",
+    "لف جذعك لجهة ثم بسلاسة للجهة الأخرى.",
+    "أبقِ الحوض موجهاً للأمام وكرر طوال الوقت."
+   ],
+   "tipsEn": [
+    "Twist from the waist, not by jerking your arms.",
+    "Keep the movement smooth and controlled."
+   ],
+   "tipsAr": [
+    "لف من الخصر وليس بدفع الذراعين بعنف.",
+    "اجعل الحركة سلسة ومتحكماً بها."
+   ],
+   "video": "https://www.youtube.com/watch?v=QQMri8bsjy8",
+   "link": "",
+   "images": [],
+   "rev": 1
+  },
+  {
+   "id": "wu_cat_cow",
+   "nameEn": "Cat-Cow",
+   "nameAr": "القطة والبقرة",
+   "emoji": "",
+   "category": "warmup",
+   "type": "time",
+   "equipment": "bodyweight",
+   "level": "beginner",
+   "muscles": [
+    "lower_back",
+    "upper_back"
+   ],
+   "secondary": [
+    "abs"
+   ],
+   "stepsEn": [
+    "Start on hands and knees with wrists under shoulders and knees under hips.",
+    "Inhale, drop your belly and lift your chest and tailbone (cow).",
+    "Exhale, round your back toward the ceiling and tuck your chin (cat).",
+    "Flow slowly between the two positions for the set time."
+   ],
+   "stepsAr": [
+    "ابدأ على يديك وركبتيك والرسغان تحت الكتفين والركبتان تحت الحوض.",
+    "شهيق: اخفض بطنك وارفع صدرك وعظمة الذيل (البقرة).",
+    "زفير: قوّس ظهرك نحو السقف وأنزل ذقنك (القطة).",
+    "انتقل ببطء بين الوضعين طوال الوقت."
+   ],
+   "tipsEn": [
+    "Move with your breath, not faster than it.",
+    "Keep your arms straight and shoulders away from your ears."
+   ],
+   "tipsAr": [
+    "تحرك مع نفسك ولا تسرع عنه.",
+    "أبقِ ذراعيك مستقيمتين وكتفيك بعيدين عن الأذنين."
+   ],
+   "video": "https://www.youtube.com/watch?v=xyNwxiuERXc",
+   "link": "",
+   "images": [
+    "images/wu_cat_cow/0.jpg",
+    "images/wu_cat_cow/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "wu_inchworm",
+   "nameEn": "Inchworm",
+   "nameAr": "دودة المشي",
+   "emoji": "",
+   "category": "warmup",
+   "type": "time",
+   "equipment": "bodyweight",
+   "level": "beginner",
+   "muscles": [
+    "hamstrings",
+    "abs"
+   ],
+   "secondary": [
+    "front_delts",
+    "calves",
+    "chest"
+   ],
+   "stepsEn": [
+    "Stand tall with feet hip-width apart.",
+    "Bend forward and place your hands on the floor, knees slightly bent if needed.",
+    "Walk your hands out to a plank position, then walk your feet toward your hands.",
+    "Stand up and repeat smoothly for the set time."
+   ],
+   "stepsAr": [
+    "قف معتدلاً وقدماك بعرض الورك.",
+    "انحنِ للأمام وضع يديك على الأرض مع ثني خفيف بالركبتين إن لزم.",
+    "امشِ بيديك للأمام حتى وضع البلانك ثم قرّب قدميك نحو يديك.",
+    "قف وكرر بسلاسة طوال الوقت."
+   ],
+   "tipsEn": [
+    "Keep your core tight in the plank so your hips do not sag.",
+    "Bend your knees if your hamstrings feel tight."
+   ],
+   "tipsAr": [
+    "شد بطنك في وضع البلانك حتى لا يهبط الحوض.",
+    "اثنِ ركبتيك إذا شعرت بشد في الفخذ الخلفي."
+   ],
+   "video": "https://www.youtube.com/watch?v=ml3MdmCkwbQ",
+   "link": "",
+   "images": [
+    "images/wu_inchworm/0.jpg",
+    "images/wu_inchworm/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "wu_shoulder_rolls",
+   "nameEn": "Shoulder Rolls",
+   "nameAr": "دوران الكتفين",
+   "emoji": "",
+   "category": "warmup",
+   "type": "time",
+   "equipment": "bodyweight",
+   "level": "beginner",
+   "muscles": [
+    "traps",
+    "side_delts"
+   ],
+   "secondary": [
+    "upper_back",
+    "rear_delts"
+   ],
+   "stepsEn": [
+    "Stand tall with arms relaxed at your sides.",
+    "Lift your shoulders up toward your ears.",
+    "Roll them back and down in a big smooth circle.",
+    "After half the time, reverse the direction and roll forward."
+   ],
+   "stepsAr": [
+    "قف معتدلاً وذراعاك مسترخيتان بجانبك.",
+    "ارفع كتفيك نحو أذنيك.",
+    "أدرهما للخلف ثم للأسفل بدائرة كبيرة وسلسة.",
+    "بعد نصف الوقت اعكس الاتجاه وأدرهما للأمام."
+   ],
+   "tipsEn": [
+    "Make the circles slow and as big as possible.",
+    "Keep your neck and arms relaxed."
+   ],
+   "tipsAr": [
+    "اجعل الدوائر بطيئة وكبيرة قدر الإمكان.",
+    "أرخِ رقبتك وذراعيك."
+   ],
+   "video": "https://www.youtube.com/watch?v=IKJZL4hvppw",
+   "link": "",
+   "images": [
+    "images/wu_shoulder_rolls/0.jpg",
+    "images/wu_shoulder_rolls/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "st_chest",
+   "nameEn": "Doorway Chest Stretch",
+   "nameAr": "تمدد الصدر",
+   "emoji": "",
+   "category": "stretch",
+   "type": "time",
+   "equipment": "bodyweight",
+   "level": "beginner",
+   "muscles": [
+    "chest"
+   ],
+   "secondary": [
+    "front_delts",
+    "biceps"
+   ],
+   "stepsEn": [
+    "Stand in a doorway and place your forearm on the frame with elbow at shoulder height.",
+    "Step one foot forward and gently turn your body away from the arm.",
+    "Feel the stretch across your chest and hold for 20 to 30 seconds.",
+    "Switch sides and repeat."
+   ],
+   "stepsAr": [
+    "قف عند باب وضع ساعدك على الإطار والمرفق بمستوى الكتف.",
+    "تقدم بقدم واحدة وأدر جسمك برفق بعيداً عن الذراع.",
+    "اشعر بالتمدد في الصدر وثبت 20 إلى 30 ثانية.",
+    "بدّل الجانب وكرر."
+   ],
+   "tipsEn": [
+    "Never push into sharp pain; stretch gently.",
+    "Keep your ribs down and shoulders relaxed."
+   ],
+   "tipsAr": [
+    "لا تدفع حتى الألم الحاد، تمدد بلطف.",
+    "أبقِ الأضلاع للأسفل والكتفين مسترخيين."
+   ],
+   "video": "https://www.youtube.com/watch?v=YAtrTy1C2Fs",
+   "link": "",
+   "images": [
+    "images/st_chest/0.jpg",
+    "images/st_chest/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "st_shoulder",
+   "nameEn": "Cross-Body Shoulder Stretch",
+   "nameAr": "تمدد الكتف",
+   "emoji": "",
+   "category": "stretch",
+   "type": "time",
+   "equipment": "bodyweight",
+   "level": "beginner",
+   "muscles": [
+    "rear_delts",
+    "side_delts"
+   ],
+   "secondary": [
+    "upper_back",
+    "traps"
+   ],
+   "stepsEn": [
+    "Stand tall and bring one arm straight across your chest.",
+    "Use your other hand to hold it just above the elbow.",
+    "Gently pull it closer and hold for 20 to 30 seconds.",
+    "Switch arms and repeat."
+   ],
+   "stepsAr": [
+    "قف معتدلاً وأحضر ذراعاً واحدة مستقيمة عبر صدرك.",
+    "استخدم يدك الأخرى لتمسكها فوق المرفق مباشرة.",
+    "اسحبها برفق نحوك وثبت 20 إلى 30 ثانية.",
+    "بدّل الذراع وكرر."
+   ],
+   "tipsEn": [
+    "Keep your shoulder down; do not hike it up.",
+    "Pull the arm gently, not forcefully."
+   ],
+   "tipsAr": [
+    "أبقِ الكتف للأسفل ولا ترفعه.",
+    "اسحب الذراع بلطف وليس بقوة."
+   ],
+   "video": "https://www.youtube.com/watch?v=uNmWSg705JA",
+   "link": "",
+   "images": [
+    "images/st_shoulder/0.jpg",
+    "images/st_shoulder/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "st_quad",
+   "nameEn": "Standing Quad Stretch",
+   "nameAr": "تمدد الفخذ الأمامي",
+   "emoji": "🦵",
+   "category": "stretch",
+   "type": "time",
+   "equipment": "bodyweight",
+   "level": "beginner",
+   "muscles": [
+    "quads"
+   ],
+   "secondary": [
+    "hip_flexors"
+   ],
+   "stepsEn": [
+    "Stand tall, holding a wall for balance if needed.",
+    "Bend one knee and grab that ankle behind you.",
+    "Pull your heel toward your glute, keeping your knees close together.",
+    "Hold for 20 to 30 seconds, then switch legs."
+   ],
+   "stepsAr": [
+    "قف معتدلاً وأمسك جداراً للتوازن عند الحاجة.",
+    "اثنِ ركبة واحدة وأمسك كاحلها من الخلف.",
+    "اسحب كعبك نحو المؤخرة مع إبقاء الركبتين متقاربتين.",
+    "ثبت 20 إلى 30 ثانية ثم بدّل الساق."
+   ],
+   "tipsEn": [
+    "Keep your hips tucked slightly; do not arch your lower back.",
+    "Keep the knee pointing down, not out to the side."
+   ],
+   "tipsAr": [
+    "اسحب الحوض قليلاً للأمام ولا تقوس أسفل ظهرك.",
+    "أبقِ الركبة موجهة للأسفل وليس للجانب."
+   ],
+   "video": "https://www.youtube.com/watch?v=Jb6JEEUGbDY",
+   "link": "",
+   "images": [
+    "images/st_quad/0.jpg",
+    "images/st_quad/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "st_hamstring",
+   "nameEn": "Seated Hamstring Stretch",
+   "nameAr": "تمدد الفخذ الخلفي",
+   "emoji": "",
+   "category": "stretch",
+   "type": "time",
+   "equipment": "bodyweight",
+   "level": "beginner",
+   "muscles": [
+    "hamstrings"
+   ],
+   "secondary": [
+    "calves",
+    "lower_back"
+   ],
+   "stepsEn": [
+    "Sit on the floor with one leg straight and the other bent with its foot against your inner thigh.",
+    "Sit tall and hinge forward from your hips toward the straight leg.",
+    "Reach for your shin or toes without rounding your back too much.",
+    "Hold for 20 to 30 seconds, then switch legs."
+   ],
+   "stepsAr": [
+    "اجلس على الأرض مع ساق مستقيمة والأخرى مثنية وقدمها على الفخذ الداخلي.",
+    "اجلس معتدلاً وانحنِ من الورك نحو الساق المستقيمة.",
+    "مد يديك نحو ساقك أو أصابع قدمك دون تقويس مفرط للظهر.",
+    "ثبت 20 إلى 30 ثانية ثم بدّل الساق."
+   ],
+   "tipsEn": [
+    "Lead with your chest, not your head.",
+    "Stop when you feel a stretch behind the thigh, not pain."
+   ],
+   "tipsAr": [
+    "قُد الحركة بصدرك وليس برأسك.",
+    "توقف عند الشعور بالتمدد خلف الفخذ وليس الألم."
+   ],
+   "video": "https://www.youtube.com/watch?v=D8dJ9K7SIiE",
+   "link": "",
+   "images": [
+    "images/st_hamstring/0.jpg",
+    "images/st_hamstring/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "st_child",
+   "nameEn": "Child's Pose",
+   "nameAr": "وضعية الطفل",
+   "emoji": "🧘",
+   "category": "stretch",
+   "type": "time",
+   "equipment": "bodyweight",
+   "level": "beginner",
+   "muscles": [
+    "lower_back",
+    "lats"
+   ],
+   "secondary": [
+    "glutes",
+    "upper_back"
+   ],
+   "stepsEn": [
+    "Kneel on the floor with big toes touching and knees apart.",
+    "Sit your hips back toward your heels.",
+    "Reach your arms forward and rest your forehead on the floor.",
+    "Breathe slowly and hold for 30 to 60 seconds."
+   ],
+   "stepsAr": [
+    "اجثُ على الأرض مع تلامس إبهامي القدمين وفتح الركبتين.",
+    "اجلس بحوضك للخلف نحو كعبيك.",
+    "مد ذراعيك للأمام وأرح جبهتك على الأرض.",
+    "تنفس ببطء وثبت 30 إلى 60 ثانية."
+   ],
+   "tipsEn": [
+    "Relax your hips and let your back lengthen.",
+    "Place a pillow under your hips if your knees hurt."
+   ],
+   "tipsAr": [
+    "أرخِ الحوض ودع ظهرك يستطيل.",
+    "ضع وسادة تحت الحوض إذا آلمتك الركبتان."
+   ],
+   "video": "https://www.youtube.com/watch?v=6USdGiJ1BaA",
+   "link": "",
+   "images": [
+    "images/st_child/0.jpg",
+    "images/st_child/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "st_triceps",
+   "nameEn": "Overhead Triceps Stretch",
+   "nameAr": "تمدد الذراع الخلفي",
+   "emoji": "",
+   "category": "stretch",
+   "type": "time",
+   "equipment": "bodyweight",
+   "level": "beginner",
+   "muscles": [
+    "triceps"
+   ],
+   "secondary": [
+    "lats",
+    "rear_delts"
+   ],
+   "stepsEn": [
+    "Stand tall and raise one arm overhead, then bend the elbow so your hand drops behind your head.",
+    "Hold that elbow with your other hand.",
+    "Gently press the elbow back and down until you feel the stretch.",
+    "Hold for 20 to 30 seconds, then switch arms."
+   ],
+   "stepsAr": [
+    "قف معتدلاً وارفع ذراعاً فوق رأسك ثم اثنِ المرفق لتسقط يدك خلف رأسك.",
+    "أمسك هذا المرفق بيدك الأخرى.",
+    "اضغط المرفق برفق للخلف وللأسفل حتى تشعر بالتمدد.",
+    "ثبت 20 إلى 30 ثانية ثم بدّل الذراع."
+   ],
+   "tipsEn": [
+    "Keep your ribs down and avoid arching your back.",
+    "Do not pull the elbow hard."
+   ],
+   "tipsAr": [
+    "أبقِ الأضلاع للأسفل ولا تقوس ظهرك.",
+    "لا تسحب المرفق بقوة."
+   ],
+   "video": "https://www.youtube.com/watch?v=cPTrm13hSSo",
+   "link": "",
+   "images": [
+    "images/st_triceps/0.jpg",
+    "images/st_triceps/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "st_calf",
+   "nameEn": "Wall Calf Stretch",
+   "nameAr": "تمدد السمانة",
+   "emoji": "🦶",
+   "category": "stretch",
+   "type": "time",
+   "equipment": "bodyweight",
+   "level": "beginner",
+   "muscles": [
+    "calves"
+   ],
+   "secondary": [
+    "hamstrings"
+   ],
+   "stepsEn": [
+    "Stand facing a wall and place your hands on it at chest height.",
+    "Step one foot back, keeping the leg straight and heel on the floor.",
+    "Bend the front knee and lean forward until you feel the calf stretch.",
+    "Hold for 20 to 30 seconds, then switch legs."
+   ],
+   "stepsAr": [
+    "قف أمام جدار وضع يديك عليه بمستوى الصدر.",
+    "ارجع بقدم واحدة للخلف مع إبقاء الساق مستقيمة والكعب على الأرض.",
+    "اثنِ الركبة الأمامية وانحنِ للأمام حتى تشعر بتمدد السمانة.",
+    "ثبت 20 إلى 30 ثانية ثم بدّل الساق."
+   ],
+   "tipsEn": [
+    "Keep the back heel pressed down.",
+    "Point both feet straight ahead."
+   ],
+   "tipsAr": [
+    "أبقِ الكعب الخلفي ملتصقاً بالأرض.",
+    "وجّه القدمين للأمام مباشرة."
+   ],
+   "video": "https://www.youtube.com/watch?v=YTYQo4WvJHA",
+   "link": "",
+   "images": [
+    "images/st_calf/0.jpg",
+    "images/st_calf/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "st_hip_flexor",
+   "nameEn": "Kneeling Hip Flexor Stretch",
+   "nameAr": "تمدد مقدمة الحوض",
+   "emoji": "",
+   "category": "stretch",
+   "type": "time",
+   "equipment": "bodyweight",
+   "level": "beginner",
+   "muscles": [
+    "hip_flexors"
+   ],
+   "secondary": [
+    "quads",
+    "glutes"
+   ],
+   "stepsEn": [
+    "Kneel on one knee, with a pad under it, and the other foot flat in front.",
+    "Tuck your pelvis under and squeeze the glute of the kneeling leg.",
+    "Shift your hips gently forward until you feel the stretch at the front of the hip.",
+    "Hold for 20 to 30 seconds, then switch legs."
+   ],
+   "stepsAr": [
+    "اجثُ على ركبة واحدة مع وضع وسادة تحتها والقدم الأخرى مسطحة أمامك.",
+    "اسحب الحوض للأسفل وشد عضلة المؤخرة في الساق الراكعة.",
+    "ادفع حوضك برفق للأمام حتى تشعر بالتمدد في مقدمة الورك.",
+    "ثبت 20 إلى 30 ثانية ثم بدّل الساق."
+   ],
+   "tipsEn": [
+    "Keep your torso upright and avoid arching your lower back.",
+    "The tucked pelvis is what creates the stretch."
+   ],
+   "tipsAr": [
+    "أبقِ جذعك مستقيماً ولا تقوس أسفل ظهرك.",
+    "سحب الحوض للأسفل هو ما يسبب التمدد."
+   ],
+   "video": "https://www.youtube.com/watch?v=KT0HlPGCl6k",
+   "link": "",
+   "images": [
+    "images/st_hip_flexor/0.jpg",
+    "images/st_hip_flexor/1.jpg"
+   ],
+   "rev": 1
+  },
+  {
+   "id": "st_pigeon",
+   "nameEn": "Pigeon Pose",
+   "nameAr": "وضعية الحمامة",
+   "emoji": "🧘",
+   "category": "stretch",
+   "type": "time",
+   "equipment": "bodyweight",
+   "level": "beginner",
+   "muscles": [
+    "glutes"
+   ],
+   "secondary": [
+    "hip_flexors",
+    "abductors"
+   ],
+   "stepsEn": [
+    "Start on all fours, then slide one knee forward behind your wrist.",
+    "Extend the other leg straight back with the top of your foot on the floor.",
+    "Square your hips and slowly fold forward over the front leg.",
+    "Breathe and hold for 30 to 60 seconds, then switch sides."
+   ],
+   "stepsAr": [
+    "ابدأ على أربع ثم مرر ركبة واحدة للأمام خلف رسغك.",
+    "مد الساق الأخرى للخلف مستقيمة مع وضع ظهر القدم على الأرض.",
+    "سوّ الحوض وانحنِ ببطء للأمام فوق الساق الأمامية.",
+    "تنفس وثبت 30 إلى 60 ثانية ثم بدّل الجانب."
+   ],
+   "tipsEn": [
+    "Place a cushion under your hip if it does not reach the floor.",
+    "Ease off if you feel knee pain."
+   ],
+   "tipsAr": [
+    "ضع وسادة تحت الورك إذا لم يصل للأرض.",
+    "خفف الشد إذا شعرت بألم في الركبة."
+   ],
+   "video": "https://www.youtube.com/watch?v=HSE2XCoMosk",
+   "link": "",
+   "images": [],
+   "rev": 1
+  },
+  {
+   "id": "st_cobra",
+   "nameEn": "Cobra Stretch",
+   "nameAr": "تمدد الكوبرا",
+   "emoji": "🧘",
+   "category": "stretch",
+   "type": "time",
+   "equipment": "bodyweight",
+   "level": "beginner",
+   "muscles": [
+    "abs"
+   ],
+   "secondary": [
+    "hip_flexors",
+    "chest",
+    "lower_back"
+   ],
+   "stepsEn": [
+    "Lie face down with hands under your shoulders and legs extended.",
+    "Press into your palms and slowly lift your chest off the floor.",
+    "Keep your hips on the ground and your shoulders away from your ears.",
+    "Hold for 15 to 30 seconds while breathing, then lower down slowly."
+   ],
+   "stepsAr": [
+    "استلقِ على بطنك ويداك تحت كتفيك وساقاك ممدودتان.",
+    "اضغط بكفيك وارفع صدرك ببطء عن الأرض.",
+    "أبقِ حوضك على الأرض وكتفيك بعيدين عن الأذنين.",
+    "ثبت 15 إلى 30 ثانية مع التنفس ثم انزل ببطء."
+   ],
+   "tipsEn": [
+    "Lift only as high as feels comfortable for your lower back.",
+    "Keep your neck long; look slightly forward."
+   ],
+   "tipsAr": [
+    "ارتفع بقدر ما يريح أسفل ظهرك فقط.",
+    "أبقِ رقبتك ممدودة وانظر للأمام قليلاً."
+   ],
+   "video": "https://www.youtube.com/watch?v=YYudWYM5Q9g",
+   "link": "",
+   "images": [],
+   "rev": 1
+  },
+  {
+   "id": "st_lat",
+   "nameEn": "Lat Stretch",
+   "nameAr": "تمدد عضلات الظهر الجانبية",
+   "emoji": "",
+   "category": "stretch",
+   "type": "time",
+   "equipment": "bodyweight",
+   "level": "beginner",
+   "muscles": [
+    "lats"
+   ],
+   "secondary": [
+    "triceps",
+    "obliques"
+   ],
+   "stepsEn": [
+    "Stand tall and raise one arm overhead.",
+    "Grab your wrist with the other hand.",
+    "Lean your torso sideways away from the raised arm.",
+    "Hold for 20 to 30 seconds, then switch sides."
+   ],
+   "stepsAr": [
+    "قف معتدلاً وارفع ذراعاً فوق رأسك.",
+    "أمسك رسغها بيدك الأخرى.",
+    "مل بجذعك جانباً بعيداً عن الذراع المرفوعة.",
+    "ثبت 20 إلى 30 ثانية ثم بدّل الجانب."
+   ],
+   "tipsEn": [
+    "Lean sideways, not forward, and keep your hips still.",
+    "Breathe deeply to deepen the stretch."
+   ],
+   "tipsAr": [
+    "مل جانباً وليس للأمام وأبقِ الحوض ثابتاً.",
+    "تنفس بعمق لزيادة التمدد."
+   ],
+   "video": "https://www.youtube.com/watch?v=D6CAdPeUgQo",
+   "link": "",
+   "images": [],
+   "rev": 1
+  },
+  {
+   "id": "st_glute",
+   "nameEn": "Figure-4 Glute Stretch",
+   "nameAr": "تمدد المؤخرة",
+   "emoji": "",
+   "category": "stretch",
+   "type": "time",
+   "equipment": "bodyweight",
+   "level": "beginner",
+   "muscles": [
+    "glutes"
+   ],
+   "secondary": [
+    "abductors",
+    "hip_flexors"
+   ],
+   "stepsEn": [
+    "Lie on your back with both knees bent and feet on the floor.",
+    "Cross one ankle over the opposite knee to form a figure 4.",
+    "Pull the bottom thigh toward your chest until you feel the stretch in the glute.",
+    "Hold for 20 to 30 seconds, then switch legs."
+   ],
+   "stepsAr": [
+    "استلقِ على ظهرك وركبتاك مثنيتان وقدماك على الأرض.",
+    "ضع كاحل ساق فوق ركبة الساق الأخرى لتشكل رقم 4.",
+    "اسحب الفخذ السفلي نحو صدرك حتى تشعر بالتمدد في المؤخرة.",
+    "ثبت 20 إلى 30 ثانية ثم بدّل الساق."
+   ],
+   "tipsEn": [
+    "Keep your head and shoulders relaxed on the floor.",
+    "Flex the top foot to protect your knee."
+   ],
+   "tipsAr": [
+    "أرخِ رأسك وكتفيك على الأرض.",
+    "اثنِ القدم العلوية لحماية الركبة."
+   ],
+   "video": "https://www.youtube.com/watch?v=VgjgTGnBkx0",
+   "link": "",
+   "images": [
+    "images/st_glute/0.jpg",
+    "images/st_glute/1.jpg"
+   ],
+   "rev": 1
+  }
+ ]
+}

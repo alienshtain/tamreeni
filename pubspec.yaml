@@ -1,0 +1,33 @@
+name: gym_app
+description: Tamreeni - home workout, nutrition and medication tracker (Arabic / English)
+publish_to: 'none'
+version: 1.1.0+2
+
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  path_provider: ^2.1.4
+  flutter_local_notifications: ^19.0.0
+  timezone: ^0.10.0
+  audioplayers: ^6.1.0
+  wakelock_plus: ^1.2.8
+  file_picker: ^8.1.2
+  share_plus: ^10.1.0
+  excel: ^4.0.6
+  image_picker: ^1.1.2
+  url_launcher: ^6.3.0
+  youtube_player_iframe: ^5.2.0
+
+dev_dependencies:
+  flutter_lints: any
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/sounds/
+    - assets/catalog/
